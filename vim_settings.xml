@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1532498958715">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/my_pokes_spec.rb" timestamp="1532248734838">
         <mark key="'" line="36" column="6" />
