@@ -70,7 +70,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text>&quot;[#{poke_ids.join(', ')}]&quot;</text>
@@ -106,6 +106,7 @@
         <entry>57</entry>
         <entry>62</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
