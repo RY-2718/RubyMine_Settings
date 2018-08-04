@@ -3,15 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1533105637226">
-        <mark key="'" line="5" column="5" />
-        <mark key="[" line="96" column="58" />
-        <mark key="]" line="96" column="58" />
-        <mark key="." line="96" column="58" />
-        <mark key="^" line="96" column="58" />
+      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1533361568261">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="97" column="78" />
+        <mark key="]" line="97" column="7" />
+        <mark key="." line="97" column="7" />
+        <mark key="^" line="97" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" timestamp="1533105777393">
-        <mark key="'" line="51" column="40" />
+      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" timestamp="1533362005496">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/parameters/party_parameter.rb" timestamp="1533361625519">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/my_pokes_spec.rb" timestamp="1533104320455">
         <mark key="s" line="141" column="0" />
@@ -53,13 +62,18 @@
       <jump line="5" column="5" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" />
       <jump line="18" column="13" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" />
       <jump line="48" column="40" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" />
+      <jump line="8" column="26" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/parameters/party_parameter.rb" />
+      <jump line="12" column="8" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/parameters/party_parameter.rb" />
+      <jump line="13" column="3" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/parameters/party_parameter.rb" />
+      <jump line="94" column="6" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwIG15X3Bva2VzX2Zyb21fcGFyYW1zLm1hcCgmOmlkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxteV9wb2tlc1w+</text>
@@ -68,31 +82,36 @@
         <text encoding="base64">ICAgICAgQHBhcnR5Lm15X3Bva2VzIDw8IFBhcnR5UGFyYW1ldGVyLm5ldyhwYXJhbXMpLm15X3Bva2VzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwIG15X3Bva2VzX2Zyb21fcGFyYW1zLm1hcCgmOmlkKQo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZQoKICAgIGRlZiBteV9wb2tlX2lkcwogICAgICAjIFRPRE86IGlk44GM5a2Y5Zyo44GZ44KL44GL44Go44GL5pWw44GM5LiA6Ie044GZ44KL44GL44Go44GL44Gu44OQ44Oq44OH44O844K344On44Oz44GM5b+F6KaB44Gn44Gv77yf44Go5oCd44Gj44GfCiAgICAgIGlkcyA9IEBwYXJhbXNbOm15X3Bva2VzXQogICAgICBNeVBva2UuZmluZChpZHMpLm1hcCgmOmlkKQogICAgZW5kCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbGRfaWRzID0gcG9rZV9pZHMK</text>
+      <register name="2" type="4">
+        <text>my_poke_ids
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbGRfaWRzID0gcG9rZV9pZHMK</text>
+        <text encoding="base64">ICAgICAgICBvbGRfZmlyc3QgPSBwb2tlX2lkcy5maXJzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwICJvbGRfaWRzOiAje29sZF9pZHN9Igo=</text>
+        <text encoding="base64">ICAgIHAgcGFydHlfcGFyYW1zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAcGFydHkubXlfcG9rZXMuZGVsZXRlX2FsbAo=</text>
+        <text encoding="base64">ICAgIHAgcGFydHlfcGFyYW1zCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcCBQYXJ0eVBhcmFtZXRlci5uZXcocGFyYW1zKS5teV9wb2tlcy5tYXAoJjppZCkK</text>
+      <register name="6" type="8">
+        <text>#
+#
+#
+#
+#</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQHBhcnR5Lm15X3Bva2VzID0gUGFydHlQYXJhbWV0ZXIubmV3KHBhcmFtcykubXlfcG9rZXMK</text>
+        <text encoding="base64">CiAgICBkZWYgbXlfcG9rZXNfZnJvbV9wYXJhbXMKICAgICAgUGFydHlQYXJhbWV0ZXIubmV3KHBhcmFtcykubXlfcG9rZXMKICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwICJwYXJ0eS5teV9wb2tlczogI3twYXJ0eS5teV9wb2tlcy5tYXAoJjppZCl9Igo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwICJwYXJhbXM6ICN7cGFyYW1zfSIK</text>
+        <text encoding="base64">ICAgICAgICBAcGFydHkubXlfcG9rZXMgPDwgbXlfcG9rZXNfZnJvbV9wYXJhbXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -124,11 +143,11 @@
         <entry>69</entry>
         <entry>29</entry>
         <entry>73</entry>
-        <entry>'s,'ed</entry>
         <entry>57</entry>
         <entry>62</entry>
         <entry>'s,'ey</entry>
         <entry>98</entry>
+        <entry>'s,'ed</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
