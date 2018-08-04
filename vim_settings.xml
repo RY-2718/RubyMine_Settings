@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1533363381274">
+      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1533365660852">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="95" column="7" />
+        <mark key="[" line="96" column="21" />
+        <mark key="]" line="96" column="27" />
+        <mark key="." line="96" column="27" />
+        <mark key="^" line="96" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" timestamp="1533364085378">
+      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" timestamp="1533365439118">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -83,49 +83,45 @@
       <jump line="18" column="3" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/models/party.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'PokeDex'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3Qob2xkX2lkcy5fX2lkX18pLm5vdF90byBlcSBwb2tlX2lkcy5fX2lkX18K</text>
       </register>
       <register name="-" type="4">
-        <text>'PokeDex'</text>
+        <text encoding="base64">cGFydHkubXlfcG9rZXMubWFwKCY6aWQp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxteV9wb2tlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQHBhcnR5Lm15X3Bva2VzIDw8IFBhcnR5UGFyYW1ldGVyLm5ldyhwYXJhbXMpLm15X3Bva2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uID0gSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5LCBzeW1ib2xpemVfbmFtZXM6IHRydWUpCiAgICAgICAgYWN0dWFsX2lkcyA9IGpzb25bOm15X3Bva2VzXS5tYXAgeyB8dnwgdls6aWRdIH0K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3Qob2xkX2lkcy5fX2lkX18pLm5vdF90byBlcSBwb2tlX2lkcy5fX2lkX18K</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHAgcGFydHlfcGFyYW1zCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwIHBhcmFtcwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgcHJpdmF0ZQoKICAgIGRlZiBteV9wb2tlX2lkcwogICAgICAjIFRPRE86IGlk44GM5a2Y5Zyo44GZ44KL44GL44Go44GL5pWw44GM5LiA6Ie044GZ44KL44GL44Go44GL44Gu44OQ44Oq44OH44O844K344On44Oz44GM5b+F6KaB44Gn44Gv77yf44Go5oCd44Gj44GfCiAgICAgIGlkcyA9IEBwYXJhbXNbOm15X3Bva2VzXQogICAgICBNeVBva2UuZmluZChpZHMpLm1hcCgmOmlkKQogICAgZW5kCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>my_poke_ids
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBvbGRfZmlyc3QgPSBwb2tlX2lkcy5maXJzdAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgcGFydHlfcGFyYW1zCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgcGFydHlfcGFyYW1zCg==</text>
-      </register>
-      <register name="8" type="8">
-        <text>#
-#
-#
-#
-#</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgbXlfcG9rZXNfZnJvbV9wYXJhbXMKICAgICAgUGFydHlQYXJhbWV0ZXIubmV3KHBhcmFtcykubXlfcG9rZXMKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHAgcGFydHlfcGFyYW1zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
