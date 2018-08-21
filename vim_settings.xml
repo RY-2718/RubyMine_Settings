@@ -10,6 +10,13 @@
         <mark key="." line="96" column="27" />
         <mark key="^" line="96" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" timestamp="1534837159379">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" timestamp="1533366748249">
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="20" />
@@ -85,6 +92,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" />
       <jump line="17" column="92" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/models/party.rb" />
       <jump line="18" column="3" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/models/party.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
