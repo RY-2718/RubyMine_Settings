@@ -104,6 +104,7 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/.env" timestamp="1535024979706" />
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/initializers/omniauth.rb" timestamp="1534875642241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="76" />
