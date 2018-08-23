@@ -43,11 +43,11 @@
         <mark key="." line="148" column="8" />
         <mark key="^" line="148" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/token_controller.rb" timestamp="1535021149089">
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/token_controller.rb" timestamp="1535030030607">
+        <mark key="[" line="12" column="61" />
+        <mark key="]" line="12" column="83" />
+        <mark key="^" line="12" column="83" />
+        <mark key="." line="12" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/users.rb" timestamp="1534874354490">
         <mark key="[" line="4" column="11" />
@@ -80,11 +80,11 @@
         <mark key="]" line="24" column="20" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/routes.rb" timestamp="1535020619676">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/routes.rb" timestamp="1535029070553">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/migrate/20180821175146_create_users.rb" timestamp="1534874348217">
         <mark key="[" line="5" column="23" />
@@ -163,10 +163,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">and0IA==</text>
+        <text>'http://localhost:3000/api/v1/hello'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">and0IA==</text>
+        <text>'http://localhost:3000/api/v1/hello'</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
@@ -175,31 +175,31 @@
         <text encoding="base64">ICAgICAgICBqc29uID0gSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5LCBzeW1ib2xpemVfbmFtZXM6IHRydWUpCiAgICAgICAgYWN0dWFsX2lkcyA9IGpzb25bOm15X3Bva2VzXS5tYXAgeyB8dnwgdls6aWRdIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBnb29nbGUgb2F1dGgKZ2VtICdvbW5pYXV0aC1nb29nbGUtb2F1dGgyJwoK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBnb29nbGUgb2F1dGgKZ2VtICdvbW5pYXV0aC1nb29nbGUtb2F1dGgyJwoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBnZXQgJ2F1dGgvZ29vZ2xlJywgdG86ICd0b2tlbiNpbml0JwogIGdldCAnYXV0aC9nb29nbGUvY2FsbGJhY2snLCB0bzogJ3Rva2VuI2NyZWF0ZScKICBnZXQgJ2hlbGxvJywgdG86ICd0b2tlbiNoZWxsbycK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBNYW5hZ2UgZW52aXJvbm1lbnQgdmFyaWFibGVzCmdlbSAnZG90ZW52LXJhaWxzJwoK</text>
+        <text encoding="base64">IyBnb29nbGUgb2F1dGgKZ2VtICdvbW5pYXV0aC1nb29nbGUtb2F1dGgyJwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5oZXJpdF9mcm9tOiAucnVib2NvcF90b2RvLnltbAoK</text>
+        <text encoding="base64">IyBnb29nbGUgb2F1dGgKZ2VtICdvbW5pYXV0aC1nb29nbGUtb2F1dGgyJwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TWV0cmljcy9MaW5lTGVuZ3RoOgogIE1heDogMTMwCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBPZmZlbnNlIGNvdW50OiAyCiMgQ29wIHN1cHBvcnRzIC0tYXV0by1jb3JyZWN0LgojIENvbmZpZ3VyYXRpb24gcGFyYW1ldGVyczogTWluU2l6ZS4KIyBTdXBwb3J0ZWRTdHlsZXM6IHBlcmNlbnQsIGJyYWNrZXRzClN0eWxlL1N5bWJvbEFycmF5OgogIEVuZm9yY2VkU3R5bGU6IGJyYWNrZXRzCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IyAKIyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyBNYW5hZ2UgZW52aXJvbm1lbnQgdmFyaWFibGVzCmdlbSAnZG90ZW52LXJhaWxzJwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -226,7 +226,6 @@
         <entry>storage</entry>
       </history-search>
       <history-cmd>
-        <entry>20</entry>
         <entry>10</entry>
         <entry>%s/it/this/cg</entry>
         <entry>69</entry>
@@ -245,6 +244,7 @@
         <entry>.env</entry>
         <entry>q]</entry>
         <entry>q</entry>
+        <entry>6</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -268,6 +268,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
