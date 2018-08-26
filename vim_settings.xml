@@ -8,12 +8,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/token_controller.rb" timestamp="1535270302112">
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/token_controller.rb" timestamp="1535274402084">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/users.rb" timestamp="1534874354490">
         <mark key="[" line="4" column="11" />
@@ -85,11 +85,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user_token.rb" timestamp="1535272539092">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user_token.rb" timestamp="1535274170523">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/Gemfile" timestamp="1535260176287">
         <mark key="[" line="31" column="0" />
@@ -103,11 +103,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/migrate/20180826082600_user.rb" timestamp="1535272507675">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/migrate/20180826082600_user.rb" timestamp="1535273611680">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" timestamp="1533366748249">
         <mark key="[" line="24" column="20" />
@@ -122,11 +122,11 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user.rb" timestamp="1535272535060">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user.rb" timestamp="1535274438763">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/models/my_poke.rb" timestamp="1533364147896">
         <mark key="[" line="33" column="31" />
@@ -196,7 +196,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlciA8IEFwcGxpY2F0aW9uUmVjb3JkCmVuZAo=</text>
+        <text encoding="base64">ICAgIHRva2VuID0gVG9rZW4uY3JlYXRlKHVzZXIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -208,28 +208,28 @@
         <text encoding="base64">Y2xhc3MgVXNlciA8IEFwcGxpY2F0aW9uUmVjb3JkCmVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmdvb2dsZV91aWQK</text>
+        <text encoding="base64">ICAgIHRva2VuID0gVG9rZW4uY3JlYXRlKHVzZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnVzZXJuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDppZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFkZF91bmlxdWUgOnVzZXJzLCA6aWQK</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOnVzZXJzLCA6aWQsIDppbnRlZ2VyCiAgICBhZGRfaW5kZXggOnVzZXJzLCA6aWQsIHVuaXF1ZTogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRva2VuID0gSldULmVuY29kZSh7IGlkOiBjdXJyZW50X2FkbWlyYWwuaWQsIGlhdDogaXNzdWVkX2F0LnRvX2kgfSwgUmFpbHMuYXBwbGljYXRpb24uc2VjcmV0cy5zZWNyZXRfa2V5X2Jhc2UsICdIUzI1NicpCg==</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmdvb2dsZV91aWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlzc3VlZF9hdCA9IFRpbWUuem9uZS5ub3cK</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnVzZXJuYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZF91bmlxdWUgOnVzZXJzLCA6aWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyLmNyZWF0ZSEoCiAgICAgICAgICBhZG1pcmFsX2lkOiBjdXJyZW50X2FkbWlyYWwuaWQsCiAgICAgICAgICB0b2tlbjogdG9rZW4sCiAgICAgICAgICBpc3N1ZWRfYXQ6IGlzc3VlZF9hdAogICAgICAgICkKICAgICAgZW5kCiAgICByZXNjdWUgPT4gZQogICAgICBsb2dnZXIuZXJyb3IoZSkKICAgICAgQGVycm9yID0gIuODiOODvOOCr+ODs+OBrueZuuihjOOBq+WkseaVl+OBl+OBvuOBl+OBn+OAgijljp/lm6A6I3tlLm1lc3NhZ2V9KSIKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHRva2VuID0gSldULmVuY29kZSh7IGlkOiBjdXJyZW50X2FkbWlyYWwuaWQsIGlhdDogaXNzdWVkX2F0LnRvX2kgfSwgUmFpbHMuYXBwbGljYXRpb24uc2VjcmV0cy5zZWNyZXRfa2V5X2Jhc2UsICdIUzI1NicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJlZ2luCiAgICAgIFVzZXIudHJhbnNhY3Rpb24gZG8KICAgICAgICBVc2VyLndoZXJlKCdhZG1pcmFsX2lkID0gPycsIGN1cnJlbnRfYWRtaXJhbC5pZCkuZGVsZXRlX2FsbAoK</text>
+        <text encoding="base64">ICAgIGlzc3VlZF9hdCA9IFRpbWUuem9uZS5ub3cK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
