@@ -3,6 +3,66 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/environments/development.rb" timestamp="1534838720720">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/token_controller.rb" timestamp="1535448585321">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="65" />
+        <mark key="^" line="14" column="65" />
+        <mark key="." line="14" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/users.rb" timestamp="1534874354490">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_battle_manager2/app/frontend/views/parties/index.vue" timestamp="1516703296363">
+        <mark key="'" line="31" column="12" />
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1533365660852">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="96" column="21" />
+        <mark key="]" line="96" column="27" />
+        <mark key="." line="96" column="27" />
+        <mark key="^" line="96" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/api/v1/token_controller_spec.rb" timestamp="1535449524825">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/routes.rb" timestamp="1535445355623">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/parameters/party_parameter.rb" timestamp="1533361625519">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/application.rb" timestamp="1535265665518">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="35" column="85" />
+        <mark key="^" line="35" column="85" />
+        <mark key="." line="35" column="85" />
+      </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/initializers/omniauth.rb" timestamp="1535266488486">
+        <mark key="[" line="2" column="71" />
+        <mark key="]" line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" timestamp="1535426221473">
         <mark key="'" line="21" column="26" />
         <mark key="[" line="39" column="16" />
@@ -17,11 +77,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/environments/development.rb" timestamp="1534838720720">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/.gitignore" timestamp="1534874778758">
         <mark key="'" line="17" column="2" />
@@ -40,19 +95,6 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/token_controller.rb" timestamp="1535446385101">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="1" column="54" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/users.rb" timestamp="1534874354490">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/Gemfile" timestamp="1535260176287">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -65,31 +107,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_battle_manager2/app/frontend/views/parties/index.vue" timestamp="1516703296363">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="34" column="24" />
-        <mark key="." line="34" column="24" />
-        <mark key="^" line="34" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1533365660852">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="96" column="21" />
-        <mark key="]" line="96" column="27" />
-        <mark key="." line="96" column="27" />
-        <mark key="^" line="96" column="27" />
-      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/migrate/20180826082600_user.rb" timestamp="1535447342640">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="46" />
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/routes.rb" timestamp="1535445355623">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/controllers/api/v1/parties_controller.rb" timestamp="1533366748249">
         <mark key="[" line="24" column="20" />
@@ -104,24 +126,12 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/parameters/party_parameter.rb" timestamp="1533361625519">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/application.rb" timestamp="1535265665518">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="35" column="85" />
-        <mark key="^" line="35" column="85" />
-        <mark key="." line="35" column="85" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user.rb" timestamp="1535446965756">
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user.rb" timestamp="1535448561400">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="4" column="52" />
-        <mark key="]" line="4" column="96" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+        <mark key="[" line="4" column="106" />
+        <mark key="]" line="4" column="101" />
+        <mark key="." line="4" column="101" />
+        <mark key="^" line="4" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/models/my_poke.rb" timestamp="1533364147896">
         <mark key="[" line="33" column="31" />
@@ -129,18 +139,19 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" timestamp="1535449529498">
+        <mark key="'" line="22" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" timestamp="1535447865773">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="8" />
         <mark key="." line="20" column="8" />
         <mark key="^" line="20" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/initializers/omniauth.rb" timestamp="1535266488486">
-        <mark key="[" line="2" column="71" />
-        <mark key="]" line="2" column="71" />
-        <mark key="^" line="2" column="71" />
-        <mark key="." line="2" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/initializers/.env" timestamp="1534876198249">
         <mark key="[" line="1" column="45" />
@@ -240,46 +251,50 @@
       <jump line="50" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="20" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" />
+      <jump line="9" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" />
+      <jump line="22" column="25" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZ2Vt44GM44Ki44Or44K044Oq44K644Og44Gu5qSc6Ki844KS44GX44Gm44Gq44GL44Gj44Gf44KJ5beu44GX5pu/44GI44KLCiAgICAjIGlmIGp3dF9kZWNvZGVkX3Rva2VuLm5pbD8gfHwgand0X2RlY29kZWRfdG9rZW5bMV1bJ2FsZyddICE9IEFMRwo=</text>
+        <text encoding="base64">cmVxdWlyZSAncmFpbHNfaGVscGVyJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>、</text>
+        <text>Valid but old token</text>
       </register>
       <register name="/" type="4">
         <text>current_user</text>
       </register>
-      <register name="0" type="4">
-        <text>Rails.application.credentials.secret_key_base</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVxdWlyZSAncmFpbHNfaGVscGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZ2Vt44GM44Ki44Or44K044Oq44K644Og44Gu5qSc6Ki844KS44GX44Gm44Gq44GL44Gj44Gf44KJ5beu44GX5pu/44GI44KLCiAgICAjIGlmIGp3dF9kZWNvZGVkX3Rva2VuLm5pbD8gfHwgand0X2RlY29kZWRfdG9rZW5bMV1bJ2FsZyddICE9IEFMRwo=</text>
+        <text encoding="base64">cmVxdWlyZSAncmFpbHNfaGVscGVyJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJhaWxzLmFwcGxpY2F0aW9uLnNlY3JldHMuc2VjcmV0X2tleV9iYXNlLAo=</text>
+        <text encoding="base64">ICAgICAgaXQgJ3Nob3VsZCBub3QgYmUgYXV0aGVudGljYXRlZCcgZG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgKHNjaGVtZSA9PSAnQmVhcmVyJyA/IHRva2VuIDogbmlsKQo=</text>
+        <text encoding="base64">ICAgICAgaXQgJ3Nob3VsZCBub3QgYmUgYXV0aGVudGljYXRlZCcgZG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgc2NoZW1lLCB0b2tlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbmlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGp3dF9hdXRoZW50aWNhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHsgZXJyb3JzOiBbJ+aWsOimj+ODpuODvOOCtuOBruS9nOaIkOOBq+WkseaVl+OBl+OBvuOBl+OBnyddIH0sIHN0YXR1czogOnVuYXV0aG9yaXplZCB1bmxlc3MgdXNlci5zYXZlCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZ2Vt44GM44Ki44Or44K044Oq44K644Og44Gu5qSc6Ki844KS44GX44Gm44Gq44GL44Gj44Gf44KJ5beu44GX5pu/44GI44KLCiAgICAjIGlmIGp3dF9kZWNvZGVkX3Rva2VuLm5pbD8gfHwgand0X2RlY29kZWRfdG9rZW5bMV1bJ2FsZyddICE9IEFMRwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBpZiBqd3RfZGVjb2RlZF90b2tlblsxXVsnYWxnJ10gIT0gQUxHCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIFJhaWxzLmFwcGxpY2F0aW9uLnNlY3JldHMuc2VjcmV0X2tleV9iYXNlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -358,6 +373,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
