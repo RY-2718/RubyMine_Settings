@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" timestamp="1535424286963">
-        <mark key="'" line="45" column="9" />
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="28" column="21" />
-        <mark key="." line="28" column="21" />
-        <mark key="^" line="28" column="21" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" timestamp="1535426221473">
+        <mark key="'" line="21" column="26" />
+        <mark key="[" line="39" column="16" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
+        <mark key="^" line="42" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1534840004400">
         <mark key="[" line="0" column="0" />
@@ -129,12 +129,12 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" timestamp="1535425249121">
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="3" />
-        <mark key="." line="29" column="3" />
-        <mark key="^" line="29" column="3" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" timestamp="1535426872049">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/initializers/omniauth.rb" timestamp="1535266488486">
         <mark key="[" line="2" column="71" />
@@ -204,71 +204,79 @@
       <jump line="4" column="21" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
       <jump line="41" column="9" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
       <jump line="4" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user.rb" />
-      <jump line="54" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="23" column="7" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="36" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
-      <jump line="3" column="40" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="42" column="5" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
-      <jump line="45" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
-      <jump line="18" column="32" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="9" column="11" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
-      <jump line="14" column="68" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="32" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="29" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
-      <jump line="10" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="24" column="7" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="26" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="15" column="11" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="5" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="21" column="26" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
+      <jump line="45" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="18" column="40" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="2" column="13" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="48" column="41" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="16" column="47" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="10" column="21" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="14" column="7" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="51" column="20" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="8" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgQGp3dF91c2VyX2lk44Gr5YCk44GM5YWl44Gj44Gm44GE44KM44Gw44Gd44KM44KS5L2/44GI44KLCiAgICByZXR1cm4gaWYgQGp3dF91c2VyX2lkCgo=</text>
+      <register name="&quot;" type="4">
+        <text>、</text>
       </register>
       <register name="-" type="4">
-        <text>admiral</text>
+        <text>、</text>
       </register>
       <register name="/" type="4">
         <text>AdmiralToken</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlciA8IEFwcGxpY2F0aW9uUmVjb3JkCmVuZAo=</text>
+        <text encoding="base64">ICAgIGlmIGp3dF9kZWNvZGVkX3Rva2VuLm5pbD8gfHwgand0X2RlY29kZWRfdG9rZW5bMV1bJ2FsZyddICE9IEFMRwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgQGp3dF91c2VyX2lk44Gr5YCk44GM5YWl44Gj44Gm44GE44KM44Gw44Gd44KM44KS5L2/44GI44KLCiAgICByZXR1cm4gaWYgQGp3dF91c2VyX2lkCgo=</text>
+        <text encoding="base64">CiAgICBpZiBqd3RfZGVjb2RlZF90b2tlblsxXVsnYWxnJ10gIT0gQUxHCiAgICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVubGVzcyBAand0X3VzZXJfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIEpXVCDjgpLjg4fjgrPjg7zjg4njgZfjgZ/ntZDmnpzjgpLov5TjgZfjgb7jgZnjgIIK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIEF1dGhvcml6YXRpb24g44OY44OD44OA44Gr5ZCr44G+44KM44KLIEpXVCDjgafoqo3oqLznirbmhYvjgpLjg4Hjgqfjg4Pjgq/jgZnjgovjgZ/jgoHjga7jg6Hjgr3jg4Pjg4kK</text>
+        <text encoding="base64">ICAgICMgQGp3dF91c2VyX2lk44Gr5YCk44GM5YWl44Gj44Gm44GE44KM44Gw44Gd44KM44KS5L2/44GI44KLCiAgICByZXR1cm4gaWYgQGp3dF91c2VyX2lkCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIEpXVCDjgafoqo3oqLzjgZfjgZ/jg6bjg7zjgrbjga7mg4XloLHjgpLov5TjgZnjg6Hjgr3jg4Pjg4kK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIEF1dGhvcml6YXRpb24g44OY44OD44OA44GuIEJlYXJlciDjgrnjgq3jg7zjg6Djga7jg4jjg7zjgq/jg7PjgpLov5TjgZkK</text>
+        <text encoding="base64">ICAgIHVubGVzcyBAand0X3VzZXJfaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICByZW5kZXIganNvbjogInt1aWQ6ICN7Z29vZ2xlX3VpZH19Igo=</text>
+        <text encoding="base64">ICAjIEpXVCDjgpLjg4fjgrPjg7zjg4njgZfjgZ/ntZDmnpzjgpLov5TjgZfjgb7jgZnjgIIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAjIEF1dGhvcml6YXRpb24g44OY44OD44OA44Gr5ZCr44G+44KM44KLIEpXVCDjgafoqo3oqLznirbmhYvjgpLjg4Hjgqfjg4Pjgq/jgZnjgovjgZ/jgoHjga7jg6Hjgr3jg4Pjg4kK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -313,8 +321,8 @@
         <entry>'s,'ed</entry>
         <entry>'s,'ey</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
