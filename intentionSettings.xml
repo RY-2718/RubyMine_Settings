@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Ruby/Convert if/then/else/end block to ternary operator" />
+  </component>
+</application>
