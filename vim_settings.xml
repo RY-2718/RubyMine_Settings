@@ -146,12 +146,12 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" timestamp="1535920888440">
-        <mark key="'" line="5" column="67" />
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="5" column="69" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" timestamp="1535943220592">
+        <mark key="'" line="8" column="1" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" timestamp="1535871699608">
         <mark key="'" line="46" column="11" />
@@ -168,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="12" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_battle_manager2/app/frontend/views/parties/index.vue" />
       <jump line="106" column="21" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/my_pokes_spec.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/my_pokes_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/my_pokes_spec.rb" />
@@ -268,6 +267,7 @@
       <jump line="47" column="11" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="21" column="11" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" />
       <jump line="5" column="67" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" />
+      <jump line="8" column="1" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/application_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
