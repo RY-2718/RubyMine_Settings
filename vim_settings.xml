@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/migrate/20180905131539_change_column_to_my_poke_history_move.rb" timestamp="1536153581902">
+        <mark key="[" line="2" column="56" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="3" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" timestamp="1536137022799">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="2" column="49" />
@@ -96,14 +102,20 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/scripts/scrape.rb" timestamp="1536153450236">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user_token.rb" timestamp="1535274170523">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="3" />
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" timestamp="1536137359899">
-        <mark key="'" line="12735" column="2" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" timestamp="1536153643541">
+        <mark key="'" line="310" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12735" column="13" />
         <mark key="^" line="12735" column="13" />
@@ -205,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/Gemfile" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop_todo.yml" />
       <jump line="10" column="16" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
@@ -305,13 +316,14 @@
       <jump line="41" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/user_request_spec.rb" />
       <jump line="9" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" />
       <jump line="12735" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" />
+      <jump line="310" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBVc2VyLmNvdW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>serializer</text>
