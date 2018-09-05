@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" timestamp="1536137022799">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/token_controller.rb" timestamp="1536066046519">
         <mark key="s" line="15" column="21" />
         <mark key="e" line="21" column="6" />
@@ -31,10 +37,6 @@
         <mark key="]" line="96" column="27" />
         <mark key="." line="96" column="27" />
         <mark key="^" line="96" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/controllers/api/v1/token_controller_spec.rb" timestamp="1535449524825">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/user_tokens.rb" timestamp="1535920839724">
         <mark key="[" line="0" column="16" />
@@ -100,8 +102,8 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" timestamp="1536136263214">
-        <mark key="'" line="12735" column="13" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" timestamp="1536137359899">
+        <mark key="'" line="12735" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12735" column="13" />
         <mark key="^" line="12735" column="13" />
@@ -147,11 +149,17 @@
         <mark key="^" line="60" column="45" />
         <mark key="." line="60" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user.rb" timestamp="1536064541492">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="3" column="57" />
-        <mark key="^" line="3" column="57" />
-        <mark key="." line="3" column="57" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" timestamp="1536137036038">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user.rb" timestamp="1536137008815">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/app/models/my_poke.rb" timestamp="1533364147896">
         <mark key="[" line="33" column="31" />
@@ -197,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/Gemfile" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/Gemfile" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop_todo.yml" />
@@ -296,7 +303,8 @@
       <jump line="44" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/user_request_spec.rb" />
       <jump line="3" column="5" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/user_request_spec.rb" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/user_request_spec.rb" />
-      <jump line="12735" column="13" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" />
+      <jump line="9" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" />
+      <jump line="12735" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
