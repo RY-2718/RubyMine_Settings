@@ -12,8 +12,8 @@
         <mark key="." line="4" column="62" />
         <mark key="^" line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" timestamp="1536508045710">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" timestamp="1536549859894">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" />
       <jump line="153" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_pokes.rb" />
       <jump line="215" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_pokes.rb" />
       <jump line="3" column="7" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/my_poke_spec.rb" />
@@ -269,6 +268,7 @@
       <jump line="32" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history_move.rb" />
       <jump line="25" column="47" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -329,7 +329,7 @@ find_by(my_poke_history_id: id)[3]</text>
         <text encoding="base64">CiAgICBmYWN0b3J5IDrjg5XjgqHjgqTjgqLjg63jg7xf5pyA5pawXzAsIGNsYXNzOiBNeVBva2VIaXN0b3J5TW92ZSBkbwogICAgICBtb3ZlX2lkIHsgTW92ZXMuZmluZF9ieShuYW1lOiAn44OW44Os44Kk44OW44OQ44O844OJJykuaWQgfQogICAgZW5kCgogICAgZmFjdG9yeSA644OV44Kh44Kk44Ki44Ot44O8X+acgOaWsF8xLCBjbGFzczogTXlQb2tlSGlzdG9yeU1vdmUgZG8KICAgICAgbW92ZV9pZCB7IE1vdmVzLmZpbmRfYnkobmFtZTogJ+OBiuOBq+OBsycpLmlkIH0KICAgIGVuZAoKICAgIGZhY3RvcnkgOuODleOCoeOCpOOCouODreODvF/mnIDmlrBfMiwgY2xhc3M6IE15UG9rZUhpc3RvcnlNb3ZlIGRvCiAgICAgIG1vdmVfaWQgeyBNb3Zlcy5maW5kX2J5KG5hbWU6ICfjgaHjgofjgYbjga/jgaQnKS5pZCB9CiAgICBlbmQKCiAgICBmYWN0b3J5IDrjg5XjgqHjgqTjgqLjg63jg7xf5pyA5pawXzMsIGNsYXNzOiBNeVBva2VIaXN0b3J5TW92ZSBkbwogICAgICBtb3ZlX2lkIHsgTW92ZXMuZmluZF9ieShuYW1lOiAn44Gv44Gt44KE44GZ44KBJykuaWQgfQogICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>24</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -383,8 +383,8 @@ find_by(my_poke_history_id: id)[3]</text>
         <entry>w</entry>
         <entry>5,15d</entry>
         <entry>5,10d</entry>
-        <entry>q</entry>
         <entry>24</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
