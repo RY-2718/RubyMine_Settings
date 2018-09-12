@@ -162,7 +162,7 @@
         <mark key="^" line="3" column="56" />
         <mark key="." line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/my_poke_spec.rb" timestamp="1536652166756">
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/my_poke_spec.rb" timestamp="1536738125805">
         <mark key="s" line="13" column="8" />
         <mark key="e" line="21" column="8" />
         <mark key="'" line="43" column="0" />
@@ -480,7 +480,7 @@
         <text encoding="base64">ICAgICAgICBwYXRjaCAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -516,13 +516,11 @@
         <entry>render</entry>
       </history-search>
       <history-cmd>
-        <entry>35</entry>
         <entry>63</entry>
         <entry>34</entry>
         <entry>40</entry>
         <entry>50</entry>
         <entry>16</entry>
-        <entry>q</entry>
         <entry>18</entry>
         <entry>54</entry>
         <entry>17</entry>
@@ -536,6 +534,8 @@
         <entry>64,85y</entry>
         <entry>103</entry>
         <entry>w</entry>
+        <entry>qa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
