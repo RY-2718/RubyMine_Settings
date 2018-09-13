@@ -25,10 +25,12 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history_move.rb" timestamp="1536758111446">
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history_move.rb" timestamp="1536846484505">
+        <mark key="s" line="3" column="2" />
+        <mark key="e" line="17" column="2" />
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="17" column="7" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/poke_dex.rb" timestamp="1536751533322">
@@ -97,12 +99,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" timestamp="1536758351574">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="54" column="53" />
-        <mark key="]" line="54" column="53" />
-        <mark key="." line="54" column="53" />
-        <mark key="^" line="54" column="53" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" timestamp="1536846417043">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_poke_histories.rb" timestamp="1536507415126">
         <mark key="'" line="157" column="0" />
@@ -166,12 +168,14 @@
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" timestamp="1536758330046">
-        <mark key="'" line="14" column="12" />
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="69" />
-        <mark key="^" line="21" column="69" />
-        <mark key="." line="21" column="69" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" timestamp="1536846394924">
+        <mark key="s" line="21" column="49" />
+        <mark key="e" line="34" column="4" />
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_battle_manager2/app/frontend/views/parties/index.vue" timestamp="1516703296363">
         <mark key="'" line="31" column="12" />
@@ -245,6 +249,9 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/opp_pokes.rb" timestamp="1536846592668">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user_token.rb" timestamp="1536758379801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -257,6 +264,12 @@
         <mark key="]" line="9996" column="6" />
         <mark key="^" line="12735" column="13" />
         <mark key="." line="12735" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke_move.rb" timestamp="1536846486349">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/vendor/bundle/ruby/2.5.0/gems/active_model_serializers-0.10.7/lib/active_model/serializer.rb" timestamp="1536754515400">
         <mark key="'" line="340" column="38" />
@@ -308,6 +321,13 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="64" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" timestamp="1536846439711">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="51" column="28" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/users_controller.rb" timestamp="1536758265434">
         <mark key="s" line="24" column="8" />
         <mark key="e" line="33" column="6" />
@@ -326,22 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="52" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="77" column="28" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="40" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="40" column="15" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/my_poke_parameter.rb" />
-      <jump line="45" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/my_pokes_controller.rb" />
-      <jump line="46" column="35" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="65" column="19" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="60" column="7" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/my_pokes_controller.rb" />
-      <jump line="67" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/my_poke_parameter.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="5" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
       <jump line="75" column="30" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/my_pokes_controller.rb" />
       <jump line="31" column="18" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/my_pokes_controller.rb" />
       <jump line="65" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/my_pokes_controller.rb" />
@@ -360,7 +364,6 @@
       <jump line="51" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/my_pokes_controller.rb" />
       <jump line="49" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/my_pokes_controller.rb" />
       <jump line="76" column="77" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
       <jump line="68" column="33" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
       <jump line="29" column="5" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/nature.yml" />
       <jump line="149" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/nature.yml" />
@@ -406,7 +409,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/users_controller.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
       <jump line="13" column="12" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history_move.rb" />
       <jump line="9" column="22" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/my_poke_parameter.rb" />
       <jump line="62" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
@@ -426,6 +428,24 @@
       <jump line="17" column="24" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/application_request_spec.rb" />
       <jump line="109" column="11" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
       <jump line="56" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/.rubocop.yml" />
+      <jump line="10" column="1" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="1" column="52" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
+      <jump line="54" column="53" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
+      <jump line="5" column="35" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
+      <jump line="31" column="1" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="14" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="16" column="1" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="61" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="45" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
+      <jump line="39" column="9" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="9" column="40" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="73" column="25" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="36" column="12" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
+      <jump line="43" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/opp_pokes.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -449,22 +469,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZSA6bW92ZV9pZF9zaG91bGRfZXhpc3RzCgogIGRlbGVnYXRlIDpuYW1lLCA6dHlwZSwgOmNhdCwgOnBvd2VyLCA6YWNjdXJhY3ksIDpwcCwgdG86IDptb3ZlCgogIHByaXZhdGUKCiAgICBkZWYgbW92ZQogICAgICBAbW92ZSB8fD0gTW92ZS5maW5kX2J5KGlkOiBtb3ZlX2lkKQogICAgZW5kCgogICAgZGVmIG1vdmVfaWRfc2hvdWxkX2V4aXN0cwogICAgICB1bmxlc3MgTW92ZS5maW5kX2J5KGlkOiBtb3ZlX2lkKQogICAgICAgIGVycm9ycy5hZGQoOm1vdmVzLCAn44GM5a2Y5Zyo44GX44G+44Gb44KTJykKICAgICAgZW5kCiAgICBlbmQK</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>.merge(history.full_info)</text>
       </register>
       <register name="/" type="4">
         <text>Tra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBNeVBva2XjgpJKU09O44Gn5Ye65Yqb44GZ44KL44Go44GN44Gu5pW05b2i44KS44GX44Gm44GP44KM44KL44K544K044GE44KE44GkCg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZSA6bW92ZV9pZF9zaG91bGRfZXhpc3RzCgogIGRlbGVnYXRlIDpuYW1lLCA6dHlwZSwgOmNhdCwgOnBvd2VyLCA6YWNjdXJhY3ksIDpwcCwgdG86IDptb3ZlCgogIHByaXZhdGUKCiAgICBkZWYgbW92ZQogICAgICBAbW92ZSB8fD0gTW92ZS5maW5kX2J5KGlkOiBtb3ZlX2lkKQogICAgZW5kCgogICAgZGVmIG1vdmVfaWRfc2hvdWxkX2V4aXN0cwogICAgICB1bmxlc3MgTW92ZS5maW5kX2J5KGlkOiBtb3ZlX2lkKQogICAgICAgIGVycm9ycy5hZGQoOm1vdmVzLCAn44GM5a2Y5Zyo44GX44G+44Gb44KTJykKICAgICAgZW5kCiAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbW92ZXM6IG1vdmVzLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -480,28 +500,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5kaXZpZHVhbDogaW5kaXZpZHVhbCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBVc2Vy44KSSlNPTuOBq+OBl+OBpuWHuuOBmeOBqOOBjeOBqwo=</text>
+        <text encoding="base64">ICAgICAgaXRlbTogaXRlbSwKICAgICAgbmF0dXJlOiBuYXR1cmUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXRlbTogaXRlbSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TWV0cmljcy9CbG9ja0xlbmd0aDoKICBFeGNsdWRlOgogICAgLSAnc3BlYy8qKi8qJwoK</text>
+        <text encoding="base64">ICAgICAgYmFzZTogYmFzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtICdjb25maWcnCg==</text>
+        <text encoding="base64">ICAgIG9wcF9wb2tlX2hpc3RvcnlfbW92ZXMubWFwKCY6bmFtZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiDjganjga7jgojjgYbjgarlvaLjgafjg6bjg7zjgrbjgavov5TjgZnjgYvjga/opoHmpJzoqI7jgYvjgoIK</text>
+        <text encoding="base64">ICAgIGVmZm9ydCA9IGhpc3RvcnkuZWZmb3J0CiAgICBpbmRpdmlkdWFsID0gaGlzdG9yeS5pbmRpdmlkdWFsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBNeVBva2VIaXN0b3J5TW92ZSBNeVBva2VIaXN0b3J544GrbW92ZVswLTNd44G/44Gf44GE44Gq44Kr44Op44Og5oyB44Gk44KI44KK44Oe44K344Gn44GX44KHCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfS50byBjaGFuZ2UoTXlQb2tlLCA6Y291bnQpLmJ5KC0xKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -540,25 +560,25 @@
         <entry>Tra</entry>
       </history-search>
       <history-cmd>
-        <entry>163,179y</entry>
-        <entry>221</entry>
-        <entry>215</entry>
-        <entry>50</entry>
-        <entry>19</entry>
-        <entry>41</entry>
-        <entry>17</entry>
-        <entry>60</entry>
-        <entry>22</entry>
-        <entry>55</entry>
         <entry>wq</entry>
         <entry>qa</entry>
         <entry>109</entry>
         <entry>23</entry>
         <entry>24</entry>
-        <entry>35</entry>
         <entry>54</entry>
         <entry>72</entry>
+        <entry>46</entry>
+        <entry>46,70y</entry>
+        <entry>46,72y</entry>
+        <entry>20,41y</entry>
+        <entry>41</entry>
+        <entry>40</entry>
+        <entry>42</entry>
+        <entry>35</entry>
+        <entry>8,17y</entry>
+        <entry>12</entry>
         <entry>w</entry>
+        <entry>'s,'ey</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
