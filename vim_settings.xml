@@ -545,7 +545,7 @@
         <text encoding="base64">ICAjIGxldCg6b3BwX3Bva2UyKSB7IGNyZWF0ZSg655u45omLXzIsIDp3aXRoX21vdmVzLCB1c2VyOiBhbGljZSkgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>64</text>
       </register>
     </registers>
     <search>
@@ -581,7 +581,6 @@
         <entry>ランドロス</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>'s,'ey</entry>
         <entry>2,17y</entry>
         <entry>2,18y</entry>
@@ -598,9 +597,10 @@
         <entry>20</entry>
         <entry>'s,'ed</entry>
         <entry>15</entry>
-        <entry>q</entry>
         <entry>25</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>64</entry>
       </history-cmd>
       <history-expr />
       <history-input />
