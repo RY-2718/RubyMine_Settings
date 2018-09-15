@@ -184,11 +184,12 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/battles.rb" timestamp="1536991568035">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/battles.rb" timestamp="1536992297537">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+        <mark key="^" line="24" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1533365660852">
         <mark key="'" line="0" column="0" />
@@ -265,11 +266,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/battle_spec.rb" timestamp="1536991454429">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/battle_spec.rb" timestamp="1536992612420">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="11" column="71" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/fixture/poke_dex.yml" timestamp="1536898582618">
         <mark key="'" line="0" column="0" />
@@ -363,10 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="216" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="214" column="33" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
       <jump line="63" column="14" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/my_pokes_controller.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/users_controller.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" />
@@ -463,6 +461,10 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/my_poke_spec.rb" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
       <jump line="7" column="31" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/battle.rb" />
+      <jump line="20" column="1" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/battle_spec.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/battle_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/battles.rb" />
+      <jump line="36" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/battles.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -486,22 +488,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>do |history|</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>do |history|</text>
       </register>
       <register name="/" type="4">
         <text>ランドロス</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUuYmF0dGxlX29wcF9wb2tlcy5jcmVhdGUob3BwX3Bva2VfaWQ6IG9wcF9wb2tlMC5pZCwgb3JkZXI6IDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBiYXR0bGUuYmF0dGxlX29wcF9wb2tlcy5jcmVhdGUob3BwX3Bva2VfaWQ6IG9wcF9wb2tlMi5pZCwgb3JkZXI6IDMpCiAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
+      <register name="1" type="8">
+        <text encoding="base64">OndpdGhfbW92ZXMsIAo6d2l0aF9tb3ZlcywgCjp3aXRoX21vdmVzLCA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -516,32 +518,34 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUub3BwX3Bva2VfaGlzdG9yaWVzIDw8IGNyZWF0ZSg655u45omLXzIsIDp3aXRoX21vdmVzKQo=</text>
+      <register name="2" type="8">
+        <text>3
+4
+5</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUub3BwX3Bva2VfaGlzdG9yaWVzIDw8IGNyZWF0ZSg655u45omLXzEsIDp3aXRoX21vdmVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUub3BwX3Bva2VfaGlzdG9yaWVzIDw8IGNyZWF0ZSg655u45omLXzAsIDp3aXRoX21vdmVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUubXlfcG9rZV9oaXN0b3JpZXMgPDwgbXlfcG9rZTEubGF0ZXN0X2hpc3RvcnkKICAgICAgICBiYXR0bGUubXlfcG9rZV9oaXN0b3JpZXMgPDwgbXlfcG9rZTIubGF0ZXN0X2hpc3RvcnkK</text>
+        <text encoding="base64">ICAgICAgZW5kCiAgICBlbmQKICAgICAgZW5kCiAgICBlbmQKICAgICAgZW5kCiAgICBlbmQKICAgICAgZW5kCiAgICBlbmQKICBlbmQKZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUubXlfcG9rZV9oaXN0b3JpZXMgPDwgbXlfcG9rZTAubGF0ZXN0X2hpc3RvcnkK</text>
+        <text encoding="base64">ICBiZWZvcmUgZG8KICAgICMgYmF0dGxlLmJhdHRsZV9teV9wb2tlX2hpc3Rvcmllcy5jcmVhdGUobXlfcG9rZV9oaXN0b3J5X2lkOiBteV9wb2tlMS5sYXRlc3RfaGlzdG9yeS5pZCwgb3JkZXI6IDEpCiAgICAjIGJhdHRsZS5iYXR0bGVfbXlfcG9rZV9oaXN0b3JpZXMuY3JlYXRlKG15X3Bva2VfaGlzdG9yeV9pZDogbXlfcG9rZTAubGF0ZXN0X2hpc3RvcnkuaWQsIG9yZGVyOiAyKQogICAgIyBiYXR0bGUuYmF0dGxlX215X3Bva2VfaGlzdG9yaWVzLmNyZWF0ZShteV9wb2tlX2hpc3RvcnlfaWQ6IG15X3Bva2UyLmxhdGVzdF9oaXN0b3J5LmlkLCBvcmRlcjogMykKICAgICMgYmF0dGxlLmJhdHRsZV9vcHBfcG9rZXMuY3JlYXRlKG9wcF9wb2tlX2lkOiBvcHBfcG9rZTAuaWQsIG9yZGVyOiAxKQogICAgIyBiYXR0bGUuYmF0dGxlX29wcF9wb2tlcy5jcmVhdGUob3BwX3Bva2VfaWQ6IG9wcF9wb2tlMS5pZCwgb3JkZXI6IDIpCiAgICAjIGJhdHRsZS5iYXR0bGVfb3BwX3Bva2VzLmNyZWF0ZShvcHBfcG9rZV9pZDogb3BwX3Bva2UyLmlkLCBvcmRlcjogMykKICBlbmQKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUub3BwX3Bva2VfaGlzdG9yaWVzIDw8IGNyZWF0ZSg655u45omLXzEsIDp3aXRoX21vdmVzKQo=</text>
+        <text encoding="base64">CiAgYmVmb3JlIGRvCiAgICAjIGJhdHRsZS5iYXR0bGVfbXlfcG9rZV9oaXN0b3JpZXMuY3JlYXRlKG15X3Bva2VfaGlzdG9yeV9pZDogbXlfcG9rZTEubGF0ZXN0X2hpc3RvcnkuaWQsIG9yZGVyOiAxKQogICAgIyBiYXR0bGUuYmF0dGxlX215X3Bva2VfaGlzdG9yaWVzLmNyZWF0ZShteV9wb2tlX2hpc3RvcnlfaWQ6IG15X3Bva2UwLmxhdGVzdF9oaXN0b3J5LmlkLCBvcmRlcjogMikKICAgICMgYmF0dGxlLmJhdHRsZV9teV9wb2tlX2hpc3Rvcmllcy5jcmVhdGUobXlfcG9rZV9oaXN0b3J5X2lkOiBteV9wb2tlMi5sYXRlc3RfaGlzdG9yeS5pZCwgb3JkZXI6IDMpCiAgICAjIGJhdHRsZS5iYXR0bGVfb3BwX3Bva2VzLmNyZWF0ZShvcHBfcG9rZV9pZDogb3BwX3Bva2UwLmlkLCBvcmRlcjogMSkKICAgICMgYmF0dGxlLmJhdHRsZV9vcHBfcG9rZXMuY3JlYXRlKG9wcF9wb2tlX2lkOiBvcHBfcG9rZTEuaWQsIG9yZGVyOiAyKQogICAgIyBiYXR0bGUuYmF0dGxlX29wcF9wb2tlcy5jcmVhdGUob3BwX3Bva2VfaWQ6IG9wcF9wb2tlMi5pZCwgb3JkZXI6IDMpCiAgZW5kCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUub3BwX3Bva2VfaGlzdG9yaWVzIDw8IGNyZWF0ZSg655u45omLXzIsIDp3aXRoX21vdmVzKQo=</text>
+        <text encoding="base64">CiAgYmVmb3JlIGRvCiAgICAjIGJhdHRsZS5iYXR0bGVfbXlfcG9rZV9oaXN0b3JpZXMuY3JlYXRlKG15X3Bva2VfaGlzdG9yeV9pZDogbXlfcG9rZTEubGF0ZXN0X2hpc3RvcnkuaWQsIG9yZGVyOiAxKQogICAgIyBiYXR0bGUuYmF0dGxlX215X3Bva2VfaGlzdG9yaWVzLmNyZWF0ZShteV9wb2tlX2hpc3RvcnlfaWQ6IG15X3Bva2UwLmxhdGVzdF9oaXN0b3J5LmlkLCBvcmRlcjogMikKICAgICMgYmF0dGxlLmJhdHRsZV9teV9wb2tlX2hpc3Rvcmllcy5jcmVhdGUobXlfcG9rZV9oaXN0b3J5X2lkOiBteV9wb2tlMi5sYXRlc3RfaGlzdG9yeS5pZCwgb3JkZXI6IDMpCiAgICAjIGJhdHRsZS5iYXR0bGVfb3BwX3Bva2VzLmNyZWF0ZShvcHBfcG9rZV9pZDogb3BwX3Bva2UwLmlkLCBvcmRlcjogMSkKICAgICMgYmF0dGxlLmJhdHRsZV9vcHBfcG9rZXMuY3JlYXRlKG9wcF9wb2tlX2lkOiBvcHBfcG9rZTEuaWQsIG9yZGVyOiAyKQogICAgIyBiYXR0bGUuYmF0dGxlX29wcF9wb2tlcy5jcmVhdGUob3BwX3Bva2VfaWQ6IG9wcF9wb2tlMi5pZCwgb3JkZXI6IDMpCiAgZW5kCgogIGl0ICdzaG91bGQgYmUgdmFsaWQnIGRvCiAgICBleHBlY3QoYmF0dGxlKS50byBiZV92YWxpZAogIGVuZAplbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAjIGxldCg6b3BwX3Bva2UyKSB7IGNyZWF0ZSg655u45omLXzIsIDp3aXRoX21vdmVzLCB1c2VyOiBhbGljZSkgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -577,9 +581,6 @@
         <entry>ランドロス</entry>
       </history-search>
       <history-cmd>
-        <entry>26</entry>
-        <entry>26,37d</entry>
-        <entry>73,85y</entry>
         <entry>44</entry>
         <entry>'s,'ey</entry>
         <entry>2,17y</entry>
@@ -588,15 +589,18 @@
         <entry>58</entry>
         <entry>75</entry>
         <entry>92</entry>
-        <entry>20</entry>
         <entry>31,40d</entry>
-        <entry>'s,'ed</entry>
         <entry>61</entry>
         <entry>29</entry>
         <entry>qa</entry>
         <entry>4</entry>
-        <entry>w</entry>
+        <entry>12</entry>
+        <entry>20</entry>
+        <entry>'s,'ed</entry>
+        <entry>15</entry>
         <entry>q</entry>
+        <entry>25</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
