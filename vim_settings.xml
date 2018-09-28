@@ -66,12 +66,12 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="62" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/battle.rb" timestamp="1536991266748">
-        <mark key="'" line="7" column="31" />
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/battle.rb" timestamp="1538126795457">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_pokes.rb" timestamp="1536507409869">
         <mark key="'" line="56" column="8" />
@@ -99,12 +99,12 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" timestamp="1537240448047">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" timestamp="1538127135215">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="47" column="4" />
+        <mark key="^" line="47" column="4" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_poke_histories.rb" timestamp="1536897150121">
         <mark key="'" line="157" column="4" />
@@ -168,8 +168,8 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" timestamp="1537073336125">
-        <mark key="'" line="54" column="0" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" timestamp="1538126806024">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="57" column="68" />
         <mark key="]" line="57" column="73" />
         <mark key="." line="57" column="73" />
@@ -362,11 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="35" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="14" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
-      <jump line="61" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
-      <jump line="45" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
-      <jump line="9" column="40" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
       <jump line="73" column="25" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
       <jump line="36" column="12" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
       <jump line="83" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" />
@@ -399,7 +394,6 @@
       <jump line="62" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
       <jump line="186" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
       <jump line="33" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/my_poke_serializer.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
       <jump line="43" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
@@ -446,7 +440,6 @@
       <jump line="44" column="24" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
       <jump line="6" column="1" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
       <jump line="63" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
@@ -462,6 +455,13 @@
       <jump line="17" column="28" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
       <jump line="48" column="1" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
+      <jump line="46" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
+      <jump line="10" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/battle.rb" />
+      <jump line="3" column="11" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/battle.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -530,7 +530,7 @@
 5</text>
       </register>
       <register name=":" type="4">
-        <text>50</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -583,9 +583,9 @@
         <entry>w</entry>
         <entry>42</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>46</entry>
         <entry>50</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
