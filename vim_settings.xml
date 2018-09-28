@@ -528,7 +528,7 @@
         <text encoding="base64">OndpdGhfbW92ZXMsIAo6d2l0aF9tb3ZlcywgCjp3aXRoX21vdmVzLCA=</text>
       </register>
       <register name=":" type="4">
-        <text>49</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -581,9 +581,9 @@
         <entry>wq</entry>
         <entry>46</entry>
         <entry>50</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>49</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
