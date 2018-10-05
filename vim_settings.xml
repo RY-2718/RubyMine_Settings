@@ -181,12 +181,12 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/battles.rb" timestamp="1538478510845">
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/battles.rb" timestamp="1538714623799">
         <mark key="'" line="36" column="2" />
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="37" />
-        <mark key="." line="24" column="37" />
-        <mark key="^" line="24" column="31" />
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="15" column="100" />
+        <mark key="." line="15" column="100" />
+        <mark key="^" line="15" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_stats/backend/spec/requests/api/v1/parties_spec.rb" timestamp="1533365660852">
         <mark key="'" line="0" column="0" />
@@ -472,14 +472,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>latest_history</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>最新</text>
+        <text>latest_history</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxteV9wb2tlXD4=</text>
@@ -487,8 +487,12 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb2tlLm15X3Bva2VfaGlzdG9yaWVzIDw8IEZhY3RvcnlCb3QuY3JlYXRlKDrjgrXjgrbjg7Pjg4njg6lf5pyA5pawLCA6d2l0aF9tb3ZlcywgbXlfcG9rZTogcG9rZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>latest_
+latest_
+latest_
+latest_
+latest_</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -504,28 +508,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWl0IDp3aXRoX2hpc3RvcnlfMSBkbwogICAgICBhZnRlcig6Y3JlYXRlKSBkbyB8cG9rZXwKICAgICAgICBwb2tlLm15X3Bva2VfaGlzdG9yaWVzIDw8IEZhY3RvcnlCb3QuY3JlYXRlKDrjgrXjgrbjg7Pjg4njg6lf5bGl5q20MSwgOndpdGhfbW92ZXMsIG15X3Bva2U6IHBva2UpCiAgICAgIGVuZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbXlfcG9rZV9oaXN0b3JpZXPjgYvjgonlj5bjgaPjgabjgY3jgabkupHjgIUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRyYWl0IDp3aXRoX2hpc3RvcnlfMSBkbwogICAgICBhZnRlcig6Y3JlYXRlKSBkbyB8cG9rZXwKICAgICAgICBwb2tlLm15X3Bva2VfaGlzdG9yaWVzIDw8IEZhY3RvcnlCb3QuY3JlYXRlKDrjgrXjgrbjg7Pjg4njg6lf5bGl5q20MSwgOndpdGhfbW92ZXMsIG15X3Bva2U6IHBva2UpCiAgICAgIGVuZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgbXlfcG9rZV9oaXN0b3JpZXPjgYvjgonlj5bjgaPjgabjgY3jgabkupHjgIUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
