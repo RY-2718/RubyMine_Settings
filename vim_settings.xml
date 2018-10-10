@@ -555,7 +555,7 @@
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -608,9 +608,9 @@
         <entry>4</entry>
         <entry>7</entry>
         <entry>'s,'ey</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
