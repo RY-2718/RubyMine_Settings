@@ -3,6 +3,7 @@
     <option name="INDENT_PRIVATE_METHODS" value="true" />
     <option name="INDENT_PROTECTED_METHODS" value="true" />
     <option name="INDENT_PUBLIC_METHODS" value="true" />
+    <option name="CONVERT_BRACE_BLOCK_BY_ENTER" value="false" />
   </Ruby>
   <codeStyleSettings language="CSS">
     <indentOptions>
