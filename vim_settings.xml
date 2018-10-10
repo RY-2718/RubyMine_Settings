@@ -103,11 +103,12 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/battle_serializer.rb" timestamp="1539150509090">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/battle_serializer.rb" timestamp="1539151444342">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" timestamp="1538717103698">
         <mark key="[" line="49" column="0" />
@@ -141,11 +142,10 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" timestamp="1539150462267">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="16" column="16" />
-        <mark key="." line="16" column="16" />
-        <mark key="^" line="16" column="16" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" timestamp="1539151452532">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/my_poke_serializer.rb" timestamp="1538985426042">
         <mark key="'" line="12" column="0" />
@@ -389,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/opp_poke_moves.rb" />
       <jump line="157" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_poke_histories.rb" />
       <jump line="1" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/opp_pokes.rb" />
       <jump line="18" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/opp_pokes.rb" />
@@ -489,6 +488,7 @@
       <jump line="14" column="14" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/battle_serializer.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -499,23 +499,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>my_pokes_in_battle</text>
       </register>
       <register name="/" type="4">
         <text>my_poke</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQGJhdHRsZSA9IGN1cnJlbnRfdXNlci5iYXR0bGVzLmZpbmRfYnkoaWQ6IHBhcmFtc1s6aWRdKQogICAgICBpZiBAYmF0dGxlLm5pbD8KICAgICAgICByZW5kZXIganNvbjogewogICAgICAgICAgZXJyb3JzOiBbJ+ODh+ODvOOCv+OBjOimi+OBpOOBi+OCiuOBvuOBm+OCkyddLAogICAgICAgIH0sIHN0YXR1czogOmJhZF9yZXF1ZXN0CiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6b3BwX3Bva2VzX2luX2JhdHRsZSwgc2VyaWFsaXplcjogT3BwUG9rZVNlcmlhbGl6ZXIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -531,28 +531,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6bXlfcG9rZXMsIHNlcmlhbGl6ZXI6IE15UG9rZVNlcmlhbGl6ZXIsIGtleTogOm15X3Bva2VzX25vdF9pbl9iYXR0bGUK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6bXlfcG9rZXMsIHNlcmlhbGl6ZXI6IE15UG9rZVNlcmlhbGl6ZXIsIGtleTogOm15X3Bva2VzX2luX2JhdHRsZQo=</text>
+        <text encoding="base64">ICAjIFRPRE86IG15X3Bva2Xjgajjga7plqLpgKPjgpLjganjgYboqJjov7DjgZnjgovjgYsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6b3BwX3Bva2VzLCBzZXJpYWxpemVyOiBPcHBQb2tlU2VyaWFsaXplciwga2V5OiA6b3BwX3Bva2VzX25vdF9pbl9iYXR0bGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcCAnc2hvd24/Jwo=</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6b3BwX3Bva2VzLCBzZXJpYWxpemVyOiBPcHBQb2tlU2VyaWFsaXplciwga2V5OiA6b3BwX3Bva2VzX2luX2JhdHRsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBoYXNfbWFueSA6bXlfcG9rZXMsIHNlcmlhbGl6ZXI6IE15UG9rZVNlcmlhbGl6ZXIsIGtleTogOm15X3Bva2VzX25vdF9pbl9iYXR0bGUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBoYXNfbWFueSA6bXlfcG9rZXMsIHNlcmlhbGl6ZXI6IE15UG9rZVNlcmlhbGl6ZXIsIGtleTogOm15X3Bva2VzX2luX2JhdHRsZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
