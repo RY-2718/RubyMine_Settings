@@ -103,11 +103,11 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/battle_serializer.rb" timestamp="1539007331630">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="82" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/battle_serializer.rb" timestamp="1539150509090">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" timestamp="1538717103698">
         <mark key="[" line="49" column="0" />
@@ -141,11 +141,11 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" timestamp="1539007075203">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" timestamp="1539150462267">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/my_poke_serializer.rb" timestamp="1538985426042">
         <mark key="'" line="12" column="0" />
@@ -291,14 +291,13 @@
         <mark key="^" line="12735" column="13" />
         <mark key="." line="12735" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" timestamp="1539007344728">
-        <mark key="s" line="79" column="0" />
-        <mark key="e" line="84" column="0" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" timestamp="1539150452032">
+        <mark key="s" line="78" column="0" />
+        <mark key="e" line="83" column="0" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-        <mark key="^" line="19" column="14" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke_move.rb" timestamp="1536849124738">
         <mark key="[" line="2" column="0" />
@@ -500,8 +499,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -532,28 +531,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcCAnc2hvd24/Jwo=</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6bXlfcG9rZXMsIHNlcmlhbGl6ZXI6IE15UG9rZVNlcmlhbGl6ZXIsIGtleTogOm15X3Bva2VzX25vdF9pbl9iYXR0bGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6bXlfcG9rZXMsIHNlcmlhbGl6ZXI6IE15UG9rZVNlcmlhbGl6ZXIsIGtleTogOm15X3Bva2VzX2luX2JhdHRsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgcCAnc2hvd24/Jwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -593,7 +592,6 @@
       </history-search>
       <history-cmd>
         <entry>30</entry>
-        <entry>qa</entry>
         <entry>46</entry>
         <entry>.,.+10w</entry>
         <entry>18</entry>
@@ -611,6 +609,7 @@
         <entry>7</entry>
         <entry>'s,'ey</entry>
         <entry>q</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
