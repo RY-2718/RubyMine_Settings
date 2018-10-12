@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" timestamp="1539327102499">
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" timestamp="1539329283790">
         <mark key="'" line="29" column="3" />
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="26" column="29" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/poke_dex_spec.rb" timestamp="1536596050023">
         <mark key="'" line="3" column="44" />
@@ -295,14 +295,14 @@
         <mark key="^" line="12735" column="13" />
         <mark key="." line="12735" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" timestamp="1539327129178">
-        <mark key="s" line="73" column="0" />
-        <mark key="e" line="78" column="0" />
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="23" column="77" />
-        <mark key="." line="23" column="77" />
-        <mark key="^" line="23" column="77" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" timestamp="1539329462808">
+        <mark key="s" line="78" column="0" />
+        <mark key="e" line="83" column="0" />
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="34" column="57" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke_move.rb" timestamp="1536849124738">
         <mark key="[" line="2" column="0" />
@@ -505,13 +505,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>unless</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>unless</text>
       </register>
       <register name="/" type="4">
         <text>my_poke</text>
