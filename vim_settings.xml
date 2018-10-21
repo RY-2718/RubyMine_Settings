@@ -88,9 +88,6 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/schema.rb" timestamp="1538983561060">
-        <mark key="'" line="129" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_pokes.rb" timestamp="1538719156422">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="13" column="0" />
@@ -308,11 +305,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke_move.rb" timestamp="1536849124738">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="16" column="7" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke_move.rb" timestamp="1539936457107">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/migrate/20180826080820_create_user_tokens.rb" timestamp="1535271662304">
         <mark key="[" line="4" column="7" />
@@ -570,7 +567,7 @@
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -618,14 +615,14 @@
         <entry>36,43y</entry>
         <entry>35,43y</entry>
         <entry>21,34d</entry>
-        <entry>wq</entry>
         <entry>71</entry>
         <entry>22,29y</entry>
         <entry>32,39y</entry>
         <entry>21,41d</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
