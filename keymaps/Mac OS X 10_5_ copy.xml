@@ -13,7 +13,5 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="meta h" />
-  </action>
+  <action id="TypeHierarchy" />
 </keymap>
