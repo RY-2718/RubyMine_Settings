@@ -17,15 +17,6 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/token_controller.rb" timestamp="1536758192075">
-        <mark key="s" line="15" column="21" />
-        <mark key="e" line="20" column="6" />
-        <mark key="'" line="14" column="95" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="14" column="95" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/users.rb" timestamp="1536052244400">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="28" />
@@ -51,15 +42,6 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/opp_poke_spec.rb" timestamp="1540143669654">
-        <mark key="s" line="24" column="0" />
-        <mark key="e" line="31" column="0" />
-        <mark key="'" line="17" column="15" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="31" column="45" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="13" column="15" />
-      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/config/application.rb" timestamp="1536051940432">
         <mark key="[" line="37" column="8" />
         <mark key="]" line="37" column="30" />
@@ -78,18 +60,6 @@
         <mark key="]" line="62" column="11" />
         <mark key="^" line="62" column="7" />
         <mark key="." line="62" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/battle.rb" timestamp="1540187945091">
-        <mark key="s" line="11" column="23" />
-        <mark key="e" line="16" column="4" />
-        <mark key="'" line="36" column="2" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/db/schema.rb" timestamp="1540183993853">
-        <mark key="'" line="66" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/edge.js" timestamp="1543919737945">
         <mark key="'" line="3" column="0" />
@@ -190,6 +160,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" timestamp="1543920458473">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/my_poke_serializer.rb" timestamp="1538985426042">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="0" column="0" />
@@ -222,6 +198,13 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1543922518563">
+        <mark key="'" line="93" column="20" />
+        <mark key="[" line="86" column="94" />
+        <mark key="]" line="86" column="91" />
+        <mark key="." line="86" column="91" />
+        <mark key="^" line="86" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" timestamp="1543919546982">
         <mark key="'" line="32" column="0" />
@@ -283,24 +266,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="8" column="35" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/application_controller_spec.rb" timestamp="1536068004487">
-        <mark key="s" line="21" column="8" />
-        <mark key="e" line="26" column="8" />
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" timestamp="1540148357288">
-        <mark key="s" line="70" column="2" />
-        <mark key="e" line="198" column="4" />
-        <mark key="'" line="200" column="2" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="228" column="5" />
-        <mark key="." line="103" column="59" />
-        <mark key="^" line="103" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/evaluation_request_spec.rb" timestamp="1540204543450">
         <mark key="'" line="144" column="0" />
@@ -396,6 +361,13 @@
         <mark key="^" line="60" column="45" />
         <mark key="." line="60" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/nodeID.js" timestamp="1543921063089">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/user.rb" timestamp="1536904553588">
         <mark key="[" line="3" column="41" />
         <mark key="]" line="5" column="39" />
@@ -415,20 +387,25 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/application_request_spec.rb" timestamp="1536759136229">
-        <mark key="s" line="20" column="6" />
-        <mark key="e" line="27" column="6" />
-        <mark key="'" line="17" column="24" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="64" column="48" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" timestamp="1543920907605">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="81" column="16" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/opp_poke_serializer.rb" timestamp="1538985528042">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/messageHeader.js" timestamp="1543921538357">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/opp_poke.rb" timestamp="1540187952403">
         <mark key="'" line="14" column="6" />
@@ -444,14 +421,11 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/users_controller.rb" timestamp="1536758265434">
-        <mark key="s" line="24" column="8" />
-        <mark key="e" line="33" column="6" />
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/index.js" timestamp="1543921595306">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" timestamp="1539007117555">
         <mark key="'" line="35" column="0" />
@@ -461,37 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/my_poke_spec.rb" />
-      <jump line="25" column="45" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/battle_spec.rb" />
-      <jump line="14" column="25" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/api/v1/battles_controller.rb" />
-      <jump line="62" column="49" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/my_poke_parameter.rb" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="49" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" />
-      <jump line="47" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" />
-      <jump line="43" column="63" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" />
-      <jump line="24" column="37" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="27" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="99" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="259" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="25" column="3" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="88" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" />
-      <jump line="90" column="60" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" />
-      <jump line="62" column="4" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="59" column="23" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" />
-      <jump line="48" column="54" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="22" column="58" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="82" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/poke/poke_stats_server/app/parameters/battle_parameter.rb" />
-      <jump line="220" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/my_poke_request_spec.rb" />
-      <jump line="17" column="15" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/opp_poke_spec.rb" />
-      <jump line="21" column="20" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/opp_poke_request.spec.rb" />
-      <jump line="49" column="8" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/opp_poke_request.spec.rb" />
-      <jump line="14" column="2" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/opp_poke_request.spec.rb" />
       <jump line="138" column="10" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/opp_poke_request.spec.rb" />
       <jump line="42" column="6" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/opp_poke_request.spec.rb" />
       <jump line="99" column="1" filename="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/opp_poke_request.spec.rb" />
@@ -561,6 +504,37 @@
       <jump line="76" column="21" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/edge.js" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/edge.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/messageHeader.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/index.js" />
+      <jump line="20" column="1" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/index.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="28" column="19" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="55" column="1" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
+      <jump line="38" column="17" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/nodeID.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/nodeID.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/nodeID.js" />
+      <jump line="61" column="59" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="32" column="21" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="72" column="16" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="64" column="13" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="67" column="13" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="74" column="26" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="76" column="8" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="50" column="8" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="56" column="22" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="58" column="25" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="59" column="32" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="83" column="20" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -572,22 +546,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgRWRnZSB7CiAgY29uc3RydWN0b3Ioc3JjTm9kZUlELCBkc3ROb2RlSUQpIHsKICAgIHRoaXMuc3JjTm9kZUlEID0gc3JjTm9kZUlEOwogICAgdGhpcy5kc3ROb2RlSUQgPSBkc3ROb2RlSUQ7CiAgICB0aGlzLndlbGxLbm93bkhpZ2hlciA9IDA7CiAgICB0aGlzLndlbGxLbm93bkxvd2VyID0gMDsKICAgIHRoaXMudXNlckxvY2FsSGlnaGVyID0gMDsKICAgIHRoaXMudXNlckxvY2FsTG93ZXIgPSAwOwogIH0KCiAgc3RhdGljIGZyb21CdWZmZXIoYnVmZmVyKSB7CiAgICBjb25zdCB3ZWxsS25vd25Mb3dlciA9IGJ1ZmZlci5yZWFkVWludDMyTEUoMCk7CiAgICBjb25zdCB3ZWxsS25vd25IaWdoZXIgPSBidWZmZXIucmVhZFVpbnQzMkxFKDQpOwogICAgY29uc3QgdXNlckxvY2FsTG93ZXIgPSBidWZmZXIucmVhZFVpbnQzMkxFKDQgKiAyKTsKICAgIGNvbnN0IHVzZXJMb2NhbEhpZ2hlciA9IGJ1ZmZlci5yZWFkVWludDMyTEUoNCAqIDMpOwoKICAgIGNvbnN0IHNyY05vZGVJREJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygxNik7CiAgICBidWZmZXIuY29weShzcmNOb2RlSURCdWZmZXIsIDAsIDQgKiA0LCA0ICogOCk7CiAgICBjb25zdCBzcmNOb2RlSUQgPSBOb2RlSUQuZnJvbUJ1ZmZlcihzcmNOb2RlSURCdWZmZXIpOwoKICAgIGNvbnN0IGRzdE5vZGVJREJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygxNik7CiAgICBidWZmZXIuY29weShzcmNOb2RlSURCdWZmZXIsIDAsIDQgKiA4LCA0ICogMTIpOwogICAgY29uc3QgZHN0Tm9kZUlEID0gTm9kZUlELmZyb21CdWZmZXIoZHN0Tm9kZUlEQnVmZmVyKTsKCiAgICBjb25zdCBlZGdlID0gbmV3IEVkZ2Uoc3JjTm9kZUlELCBkc3ROb2RlSUQpOwogICAgZWRnZS5zZXRFZGdlQXR0cmlidXRlKAogICAgICB3ZWxsS25vd25IaWdoZXIsCiAgICAgIHdlbGxLbm93bkxvd2VyLAogICAgICB1c2VyTG9jYWxIaWdoZXIsCiAgICAgIHVzZXJMb2NhbExvd2VyCiAgICApOwoKICAgIHJldHVybiBlZGdlOwogIH0KCiAgLy8g44Go44KK44GC44GI44Ga5paH5a2X5YiX44Gn6L+U44GZCiAgZ2V0RWRnZUF0dHJpYnV0ZSgpIHsKICAgIHJldHVybiB7CiAgICAgIHdlbGxLbm93bjogYCR7dGhpcy53ZWxsS25vd25IaWdoZXJ9JHt0aGlzLndlbGxLbm93bkxvd2VyfWAsCiAgICAgIHVzZXJMb2NhbDogYCR7dGhpcy51c2VyTG9jYWxIaWdoZXJ9JHt0aGlzLnVzZXJMb2NhbExvd2VyfWAsCiAgICB9OwogIH0KCiAgc2V0RWRnZUF0dHJpYnV0ZSgKICAgIHdlbGxLbm93bkhpZ2hlciwKICAgIHdlbGxLbm93bkxvd2VyLAogICAgdXNlckxvY2FsSGlnaGVyLAogICAgdXNlckxvY2FsTG93ZXIKICApIHsKICAgIHRoaXMud2VsbEtub3duSGlnaGVyID0gd2VsbEtub3duSGlnaGVyOwogICAgdGhpcy53ZWxsS25vd25Mb3dlciA9IHdlbGxLbm93bkxvd2VyOwogICAgdGhpcy51c2VyTG9jYWxIaWdoZXIgPSB1c2VyTG9jYWxIaWdoZXI7CiAgICB0aGlzLnVzZXJMb2NhbExvd2VyID0gdXNlckxvY2FsTG93ZXI7CiAgfQoKICB0b0J1ZmZlcigpIHsKICAgIGNvbnN0IGhlYWRlciA9IEJ1ZmZlci5hbGxvYygxNik7CiAgICBoZWFkZXIud3JpdGVVSW50MzJMRSh0aGlzLndlbGxLbm93bkxvd2VyLCAwKTsKICAgIGhlYWRlci53cml0ZVVJbnQzMkxFKHRoaXMud2VsbEtub3duSGlnaGVyLCA0KTsKICAgIGhlYWRlci53cml0ZVVJbnQzMkxFKHRoaXMudXNlckxvY2FsTG93ZXIsIDQgKiAyKTsKICAgIGhlYWRlci53cml0ZVVJbnQzMkxFKHRoaXMudXNlckxvY2FsSGlnaGVyLCA0ICogMyk7CiAgICBjb25zdCBzcmNOb2RlSURCdWZmZXIgPSB0aGlzLnNyY05vZGVJRC50b0J1ZmZlcigpOwogICAgY29uc3QgZHN0Tm9kZUlEQnVmZmVyID0gdGhpcy5kc3ROb2RlSUQudG9CdWZmZXIoKTsKCiAgICBjb25zdCB0b3RhbExlbmd0aCA9CiAgICAgIGhlYWRlci5sZW5ndGggKyBzcmNOb2RlSURCdWZmZXIubGVuZ3RoICsgZHN0Tm9kZUlEQnVmZmVyLmxlbmd0aDsKCiAgICBjb25zdCBidWZmZXIgPSBCdWZmZXIuY29uY2F0KAogICAgICBbaGVhZGVyLCBzcmNOb2RlSURCdWZmZXIsIGRzdE5vZGVJREJ1ZmZlcl0sCiAgICAgIHRvdGFsTGVuZ3RoCiAgICApOwoKICAgIHJldHVybiBidWZmZXI7CiAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cnVlXD4=</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMudXNlckxvY2FsID0gMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgRWRnZSB7CiAgY29uc3RydWN0b3Ioc3JjTm9kZUlELCBkc3ROb2RlSUQpIHsKICAgIHRoaXMuc3JjTm9kZUlEID0gc3JjTm9kZUlEOwogICAgdGhpcy5kc3ROb2RlSUQgPSBkc3ROb2RlSUQ7CiAgICB0aGlzLndlbGxLbm93bkhpZ2hlciA9IDA7CiAgICB0aGlzLndlbGxLbm93bkxvd2VyID0gMDsKICAgIHRoaXMudXNlckxvY2FsSGlnaGVyID0gMDsKICAgIHRoaXMudXNlckxvY2FsTG93ZXIgPSAwOwogIH0KCiAgc3RhdGljIGZyb21CdWZmZXIoYnVmZmVyKSB7CiAgICBjb25zdCB3ZWxsS25vd25Mb3dlciA9IGJ1ZmZlci5yZWFkVWludDMyTEUoMCk7CiAgICBjb25zdCB3ZWxsS25vd25IaWdoZXIgPSBidWZmZXIucmVhZFVpbnQzMkxFKDQpOwogICAgY29uc3QgdXNlckxvY2FsTG93ZXIgPSBidWZmZXIucmVhZFVpbnQzMkxFKDQgKiAyKTsKICAgIGNvbnN0IHVzZXJMb2NhbEhpZ2hlciA9IGJ1ZmZlci5yZWFkVWludDMyTEUoNCAqIDMpOwoKICAgIGNvbnN0IHNyY05vZGVJREJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygxNik7CiAgICBidWZmZXIuY29weShzcmNOb2RlSURCdWZmZXIsIDAsIDQgKiA0LCA0ICogOCk7CiAgICBjb25zdCBzcmNOb2RlSUQgPSBOb2RlSUQuZnJvbUJ1ZmZlcihzcmNOb2RlSURCdWZmZXIpOwoKICAgIGNvbnN0IGRzdE5vZGVJREJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygxNik7CiAgICBidWZmZXIuY29weShzcmNOb2RlSURCdWZmZXIsIDAsIDQgKiA4LCA0ICogMTIpOwogICAgY29uc3QgZHN0Tm9kZUlEID0gTm9kZUlELmZyb21CdWZmZXIoZHN0Tm9kZUlEQnVmZmVyKTsKCiAgICBjb25zdCBlZGdlID0gbmV3IEVkZ2Uoc3JjTm9kZUlELCBkc3ROb2RlSUQpOwogICAgZWRnZS5zZXRFZGdlQXR0cmlidXRlKAogICAgICB3ZWxsS25vd25IaWdoZXIsCiAgICAgIHdlbGxLbm93bkxvd2VyLAogICAgICB1c2VyTG9jYWxIaWdoZXIsCiAgICAgIHVzZXJMb2NhbExvd2VyCiAgICApOwoKICAgIHJldHVybiBlZGdlOwogIH0KCiAgLy8g44Go44KK44GC44GI44Ga5paH5a2X5YiX44Gn6L+U44GZCiAgZ2V0RWRnZUF0dHJpYnV0ZSgpIHsKICAgIHJldHVybiB7CiAgICAgIHdlbGxLbm93bjogYCR7dGhpcy53ZWxsS25vd25IaWdoZXJ9JHt0aGlzLndlbGxLbm93bkxvd2VyfWAsCiAgICAgIHVzZXJMb2NhbDogYCR7dGhpcy51c2VyTG9jYWxIaWdoZXJ9JHt0aGlzLnVzZXJMb2NhbExvd2VyfWAsCiAgICB9OwogIH0KCiAgc2V0RWRnZUF0dHJpYnV0ZSgKICAgIHdlbGxLbm93bkhpZ2hlciwKICAgIHdlbGxLbm93bkxvd2VyLAogICAgdXNlckxvY2FsSGlnaGVyLAogICAgdXNlckxvY2FsTG93ZXIKICApIHsKICAgIHRoaXMud2VsbEtub3duSGlnaGVyID0gd2VsbEtub3duSGlnaGVyOwogICAgdGhpcy53ZWxsS25vd25Mb3dlciA9IHdlbGxLbm93bkxvd2VyOwogICAgdGhpcy51c2VyTG9jYWxIaWdoZXIgPSB1c2VyTG9jYWxIaWdoZXI7CiAgICB0aGlzLnVzZXJMb2NhbExvd2VyID0gdXNlckxvY2FsTG93ZXI7CiAgfQoKICB0b0J1ZmZlcigpIHsKICAgIGNvbnN0IGhlYWRlciA9IEJ1ZmZlci5hbGxvYygxNik7CiAgICBoZWFkZXIud3JpdGVVSW50MzJMRSh0aGlzLndlbGxLbm93bkxvd2VyLCAwKTsKICAgIGhlYWRlci53cml0ZVVJbnQzMkxFKHRoaXMud2VsbEtub3duSGlnaGVyLCA0KTsKICAgIGhlYWRlci53cml0ZVVJbnQzMkxFKHRoaXMudXNlckxvY2FsTG93ZXIsIDQgKiAyKTsKICAgIGhlYWRlci53cml0ZVVJbnQzMkxFKHRoaXMudXNlckxvY2FsSGlnaGVyLCA0ICogMyk7CiAgICBjb25zdCBzcmNOb2RlSURCdWZmZXIgPSB0aGlzLnNyY05vZGVJRC50b0J1ZmZlcigpOwogICAgY29uc3QgZHN0Tm9kZUlEQnVmZmVyID0gdGhpcy5kc3ROb2RlSUQudG9CdWZmZXIoKTsKCiAgICBjb25zdCB0b3RhbExlbmd0aCA9CiAgICAgIGhlYWRlci5sZW5ndGggKyBzcmNOb2RlSURCdWZmZXIubGVuZ3RoICsgZHN0Tm9kZUlEQnVmZmVyLmxlbmd0aDsKCiAgICBjb25zdCBidWZmZXIgPSBCdWZmZXIuY29uY2F0KAogICAgICBbaGVhZGVyLCBzcmNOb2RlSURCdWZmZXIsIGRzdE5vZGVJREJ1ZmZlcl0sCiAgICAgIHRvdGFsTGVuZ3RoCiAgICApOwoKICAgIHJldHVybiBidWZmZXI7CiAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -603,47 +577,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTm9kZUlEIHsKICAvLyBCaWdJbnTjgpLkvb/jgYbjgahKYXZhU2NyaXB05LiK44Gn5Lu75oSP57K+5bqm44Gu5pW05pWw5YCk44KS5omx44GI44KL44GM77yM5LuK5Zue44Gv44Go44KK44GC44GI44Ga44K544Or44O8CiAgY29uc3RydWN0b3Ioc2VydmVySUQsIG93bmVySUQsIGxvY2FsSUQsIHZlcnNpb25JRCkgewogICAgdGhpcy5zZXJ2ZXJJRCA9IHNlcnZlcklEOwogICAgdGhpcy5vd25lcklEID0gb3duZXJJRDsKICAgIHRoaXMubG9jYWxJRCA9IGxvY2FsSUQ7CiAgICB0aGlzLnZlcnNpb25JRCA9IHZlcnNpb25JRDsKICB9CgogIHN0YXRpYyBmcm9tQnVmZmVyKGJ1ZmZlcikgewogICAgY29uc3Qgc2VydmVySUQgPSBidWZmZXIucmVhZFVJbnQzMkxFKDApOwogICAgY29uc3Qgb3duZXJJRCA9IGJ1ZmZlci5yZWFkVUludDMyTEUoNCk7CiAgICBjb25zdCBsb2NhbElEID0gYnVmZmVyLnJlYWRVSW50MzJMRSg0ICogMik7CiAgICBjb25zdCB2ZXJzaW9uSUQgPSBidWZmZXIucmVhZFVJbnQzMkxFKDQgKiAzKTsKCiAgICByZXR1cm4gbmV3IE5vZGVJRChzZXJ2ZXJJRCwgb3duZXJJRCwgbG9jYWxJRCwgdmVyc2lvbklEKTsKICB9CgogIC8vIOOBquOCk+OBqOOBi0lE44KSNGJ5dGXjgZrjgaQgfkJpZ34gTGl0dGxlIEVuZGlhbuOBp+abuOOBhOOBpuOBhOOBo+OBn0J1ZmZlcuOCkui/lOOBmQogIC8vIFRPRE86IOOBk+OBrklE44GM5pys5b2T44Gv44Gp44GG44GE44GG6aCG55Wq44Gn5Lim44KT44Gn44GE44KL44G544GN44Gq44Gu44GL44KS6ICD44GI44KLIC8g6K2w6KuW44GZ44KLCiAgdG9CdWZmZXIoKSB7CiAgICBjb25zdCBidWZmZXIgPSBCdWZmZXIuYWxsb2MoMTYpOwogICAgYnVmZmVyLndyaXRlVUludDMyTEUodGhpcy5zZXJ2ZXJJRCwgMCk7CiAgICBidWZmZXIud3JpdGVVSW50MzJMRSh0aGlzLm93bmVySUQsIDQpOwogICAgYnVmZmVyLndyaXRlVUludDMyTEUodGhpcy5sb2NhbElELCA0ICogMik7CiAgICBidWZmZXIud3JpdGVVSW50MzJMRSh0aGlzLnZlcnNpb25JRCwgNCAqIDMpOwogICAgcmV0dXJuIGJ1ZmZlcjsKICB9CgogIHRvU3RyaW5nKCkgewogICAgcmV0dXJuIGAke3RoaXMuc2VydmVySUR9JHt0aGlzLm93bmVySUR9JHt0aGlzLmxvY2FsSUR9JHt0aGlzLnZlcnNpb25JRH1gOwogIH0KCiAgZGVlcEVxdWFsKGRzdE5vZGVJRCkgewogICAgcmV0dXJuIHRoaXMudG9TdHJpbmcoKSA9PT0gZHN0Tm9kZUlELnRvU3RyaW5nKCk7CiAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgLy8gLy8g6KiI566X44GX44GfbGVuZ3Ro44Go5Y+X5L+h44GX44GfbGVuZ3Ro44GM5LiA6Ie044GX44Gf5aC05ZCICg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZnJvbUJ1ZmZlcihidWZmZXIpIHsKICAgIGNvbnN0IHdlbGxLbm93bkxvd2VyID0gYnVmZmVyLnJlYWRVaW50MzJMRSgwKTsKICAgIGNvbnN0IHdlbGxLbm93bkhpZ2hlciA9IGJ1ZmZlci5yZWFkVWludDMyTEUoNCk7CiAgICBjb25zdCB1c2VyTG9jYWxMb3dlciA9IGJ1ZmZlci5yZWFkVWludDMyTEUoNCAqIDIpOwogICAgY29uc3QgdXNlckxvY2FsSGlnaGVyID0gYnVmZmVyLnJlYWRVaW50MzJMRSg0ICogMyk7CgogICAgY29uc3Qgc3JjTm9kZUlEQnVmZmVyID0gQnVmZmVyLmFsbG9jKDE2KTsKICAgIGJ1ZmZlci5jb3B5KHNyY05vZGVJREJ1ZmZlciwgMCwgNCAqIDQsIDQgKiA4KTsKICAgIGNvbnN0IHNyY05vZGVJRCA9IHByb3RvY29sLk5vZGVJRC5mcm9tQnVmZmVyKHNyY05vZGVJREJ1ZmZlcik7CgogICAgY29uc3QgZHN0Tm9kZUlEQnVmZmVyID0gQnVmZmVyLmFsbG9jKDE2KTsKICAgIGJ1ZmZlci5jb3B5KHNyY05vZGVJREJ1ZmZlciwgMCwgNCAqIDgsIDQgKiAxMik7CiAgICBjb25zdCBkc3ROb2RlSUQgPSBwcm90b2NvbC5Ob2RlSUQuZnJvbUJ1ZmZlcihkc3ROb2RlSURCdWZmZXIpOwoKICAgIGNvbnN0IGVkZ2UgPSBuZXcgRWRnZShzcmNOb2RlSUQsIGRzdE5vZGVJRCk7CiAgICBlZGdlLnNldEVkZ2VBdHRyaWJ1dGUoCiAgICAgIHdlbGxLbm93bkhpZ2hlciwKICAgICAgd2VsbEtub3duTG93ZXIsCiAgICAgIHVzZXJMb2NhbEhpZ2hlciwKICAgICAgdXNlckxvY2FsTG93ZXIKICAgICk7CgogICAgcmV0dXJuIGVkZ2U7CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhTGVuZ3RoID0gNSArIGVkZ2VBbW91bnQgKiBwcm90b2NvbC5FREdFX0xFTkdUSDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNyY05vZGVJRCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhTGVuZ3RoID0gNSArIGVkZ2VBbW91bnQgKiBwcm90b2NvbC5FREdFX0xFTkdUSDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmlkQXJyYXkucmVkdWNlKChwcmV2LCBjdXJyZW50KSA9PiB7CiAgICAgIHJldHVybiBwcmV2ICsgY3VycmVudC50b1N0cmluZygpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg5jjg4Pjg4A1Ynl0ZSArIOOCqOODg+OCuOaVsCAqIDHjgqjjg4PjgrjjgYLjgZ/jgorjga7plbfjgZUK</text>
       </register>
-      <register name="7" type="8">
-        <text>idArray[1]
-idArray[2]
-idArray[3]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gaGVhZGVy44KS5Y+X44GR5Y+W44Gj44Gm44Gq44GE5aC05ZCICg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaWRBcnJheSA9IFtmaXJzdCwgc2Vjb25kLCB0aGlyZCwgZm91cnRoXTsK</text>
+        <text encoding="base64">ICAgICAgLy8g5YmN5Zue44Gu5q6L44KK44GoY29uY2F0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaWRBcnJheSA9IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>40</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cnVlXD4=</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cnVlXD4=</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>opp</last-replace>
       <last-substitute>my</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>20</entry>
         <entry>trai</entry>
         <entry>Tra</entry>
         <entry>text</entry>
@@ -663,13 +634,9 @@ idArray[3]</text>
         <entry>my</entry>
         <entry>my_poke</entry>
         <entry encoding="base64">XDx0cnVlXD4=</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
-        <entry>26,49d</entry>
-        <entry>10y</entry>
-        <entry>26,30y</entry>
-        <entry>101</entry>
-        <entry>%s/my/opp/g</entry>
         <entry>20</entry>
         <entry>6</entry>
         <entry>10,35y</entry>
@@ -681,10 +648,15 @@ idArray[3]</text>
         <entry>81</entry>
         <entry>30</entry>
         <entry>30,67d</entry>
-        <entry>q</entry>
         <entry>32,107d</entry>
         <entry>9</entry>
+        <entry>22,32d</entry>
+        <entry>13,20d</entry>
+        <entry>71</entry>
+        <entry>39,58d</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>40</entry>
       </history-cmd>
       <history-expr />
       <history-input />
