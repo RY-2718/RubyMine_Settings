@@ -216,12 +216,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" timestamp="1543914235558">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="8" />
-        <mark key="^" line="35" column="8" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" timestamp="1543916484836">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="96" column="55" />
+        <mark key="]" line="76" column="61" />
+        <mark key="." line="76" column="61" />
+        <mark key="^" line="76" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/Ruby/rails/5.1/poke_battle_manager2/app/frontend/views/parties/index.vue" timestamp="1516703296363">
         <mark key="'" line="31" column="12" />
@@ -557,14 +557,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgRWRnZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>this.userLocal</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>userLocal[0]</text>
+        <text>this.userLocal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVlXD4=</text>
@@ -573,7 +573,7 @@
         <text encoding="base64">ICAgIHRoaXMudXNlckxvY2FsID0gMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgRWRnZSgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmlkQXJyYXkucmVkdWNlKChwcmV2LCBjdXJyZW50KSA9PiB7CiAgICAgIHJldHVybiBwcmV2ICsgY3VycmVudC50b1N0cmluZygpOwogICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -589,34 +589,36 @@
         </keys>
       </register>
       <register name="2" type="8">
+        <text>idArray[1]
+idArray[2]
+idArray[3]</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuaWRBcnJheSA9IFtmaXJzdCwgc2Vjb25kLCB0aGlyZCwgZm91cnRoXTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuaWRBcnJheSA9IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgRWRnZSgpCg==</text>
+      </register>
+      <register name="6" type="8">
         <text>this.
 this.
 this.
 this.</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRoaXMud2VsbEtub3duID0gW3dlbGxLbm93bkhpZ2hlciwgd2VsbEtub3duTG93ZXJdOwogICAgdGhpcy51c2VyTG9jYWwgPSBbdXNlckxvY2FsSGlnaGVyLCB1c2VyTG9jYWxMb3dlcl07Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRoaXMud2VsbEtub3duSGlnaGVyID0gMDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHVzZXJMb2NhbCA9IAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAvLyBob2doZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBsZXQoOnBva2UwKSB7IGNyZWF0ZSg655u45omLXzAsIDp3aXRoX21vdmVzLCB1c2VyOiBhbGljZSkgfQogIGxldCg6cG9rZTEpIHsgY3JlYXRlKDrnm7jmiYtfMSwgOndpdGhfbW92ZXMsIHVzZXI6IGFsaWNlKSB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXR0bGUuZXZhbHVhdGlvbnMuY3JlYXRlKG15X3Bva2VfaGlzdG9yeV9pZDogbXlfcG9rZTAubXlfcG9rZV9oaXN0b3JpZXMuZmlyc3QuaWQsIG9wcF9wb2tlX2lkOiBvcHBfcG9rZTAuaWQsIGV2YWx1YXRpb246IDIpCiAgICAgICAgYmF0dGxlLmV2YWx1YXRpb25zLmNyZWF0ZShteV9wb2tlX2hpc3RvcnlfaWQ6IG15X3Bva2UwLm15X3Bva2VfaGlzdG9yaWVzLmZpcnN0LmlkLCBvcHBfcG9rZV9pZDogb3BwX3Bva2UwLmlkLCBldmFsdWF0aW9uOiAyKQogICAgICAgIGJhdHRsZS5ldmFsdWF0aW9ucy5jcmVhdGUobXlfcG9rZV9oaXN0b3J5X2lkOiBteV9wb2tlMC5teV9wb2tlX2hpc3Rvcmllcy5maXJzdC5pZCwgb3BwX3Bva2VfaWQ6IG9wcF9wb2tlMC5pZCwgZXZhbHVhdGlvbjogMikK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>36</text>
       </register>
     </registers>
     <search>
@@ -652,7 +654,6 @@ this.</text>
         <entry encoding="base64">XDx0cnVlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>108</entry>
         <entry>%s/my/opp/cg</entry>
         <entry>8,23d</entry>
         <entry>30</entry>
@@ -672,6 +673,7 @@ this.</text>
         <entry>61</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>36</entry>
       </history-cmd>
       <history-expr />
       <history-input />
