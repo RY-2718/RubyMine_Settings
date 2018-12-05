@@ -71,12 +71,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_pokes.rb" timestamp="1538719156422">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/models/user_spec.rb" timestamp="1536128400099">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="5" />
@@ -90,11 +84,24 @@
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/package.json" timestamp="1544050704423">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/scripts/scrape.rb" timestamp="1536759308119">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="54" />
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Examples/fetchFromCatalogueServer.js" timestamp="1544050624690">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/battle_serializer.rb" timestamp="1539936110037">
         <mark key="'" line="8" column="0" />
@@ -102,6 +109,13 @@
         <mark key="]" line="2" column="60" />
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Examples/writeToCatalogueServerExample.js" timestamp="1544050569867">
+        <mark key="'" line="16" column="39" />
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="21" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/lab/BarcodeServer/app/app.js" timestamp="1543818052116">
         <mark key="'" line="22" column="0" />
@@ -123,12 +137,6 @@
         <mark key="]" line="45" column="14" />
         <mark key="^" line="45" column="14" />
         <mark key="." line="45" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/my_poke_history.rb" timestamp="1540187948922">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/factories/my_poke_history_moves.rb" timestamp="1536507898069">
         <mark key="'" line="41" column="48" />
@@ -166,18 +174,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/battle_request_spec.rb" timestamp="1540203741541">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" timestamp="1544047969037">
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" timestamp="1544050677576">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/my_poke_serializer.rb" timestamp="1538985426042">
         <mark key="'" line="12" column="0" />
@@ -212,12 +214,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1544047826981">
-        <mark key="'" line="111" column="10" />
-        <mark key="[" line="123" column="18" />
-        <mark key="]" line="123" column="22" />
-        <mark key="." line="123" column="22" />
-        <mark key="^" line="123" column="22" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1544052024261">
+        <mark key="'" line="52" column="11" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="35" column="5" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="35" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" timestamp="1543919546982">
         <mark key="'" line="32" column="0" />
@@ -279,6 +281,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="8" column="35" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/README.md" timestamp="1544052197686">
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="56" column="2" />
+        <mark key="^" line="56" column="2" />
+        <mark key="." line="56" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/spec/requests/api/v1/evaluation_request_spec.rb" timestamp="1540204543450">
         <mark key="'" line="144" column="0" />
@@ -443,12 +451,6 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/controllers/application_controller.rb" timestamp="1539007117555">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" timestamp="1543999650082">
         <mark key="'" line="35" column="32" />
         <mark key="[" line="70" column="8" />
@@ -458,20 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="11" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/nodeID.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
-      <jump line="40" column="3" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="13" column="28" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="42" column="93" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/messageHeader.js" />
-      <jump line="19" column="25" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/index.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="10" column="6" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="19" column="5" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/messageHeader.js" />
       <jump line="39" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/nodeID.js" />
       <jump line="73" column="23" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" />
@@ -549,7 +537,6 @@
       <jump line="122" column="15" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="76" column="18" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
-      <jump line="70" column="22" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="135" column="13" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
@@ -557,7 +544,22 @@
       <jump line="113" column="10" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="110" column="10" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="116" column="10" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
-      <jump line="111" column="10" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="50" column="4" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="70" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="190" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="27" column="14" filename="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" />
+      <jump line="16" column="39" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Examples/writeToCatalogueServerExample.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Examples/fetchFromCatalogueServer.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" />
+      <jump line="15" column="61" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="56" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="111" column="19" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="52" column="11" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -568,23 +570,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>edges</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGVkZ2VzID0gW107CiAgICAgICAgICBjb25zdCByZWNlaXZlZEhlYWRlckxlbmd0aCA9CiAgICAgICAgICAgIHByb3RvY29sLk1FU1NBR0VfSEVBREVSX0xFTkdUSCArIHByb3RvY29sLk5PREVfSURfTEVOR1RIOwogICAgICAgICAgbGV0IGhhc1JlcGx5SGVhZGVyID0gZmFsc2U7CiAgICAgICAgICBsZXQgdG90YWxMZW5ndGggPSAwOwogICAgICAgICAgbGV0IHJlY2VpdmVkTGVuZ3RoID0gMDsKICAgICAgICAgIGxldCByZW1haW5lZEJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygwKTsKCiAgICAgICAgICBjbGllbnQub24oJ2RhdGEnLCBkYXRhID0+IHsKICAgICAgICAgICAgY29uc3QgYnVmZmVyID0gQnVmZmVyLmNvbmNhdCgKICAgICAgICAgICAgICBbcmVtYWluZWRCdWZmZXIsIGRhdGFdLAogICAgICAgICAgICAgIHJlbWFpbmVkQnVmZmVyLmxlbmd0aCArIGRhdGEubGVuZ3RoCiAgICAgICAgICAgICk7CgogICAgICAgICAgICBpZiAoIWhhc1JlcGx5SGVhZGVyICYmIGJ1ZmZlci5sZW5ndGggPCA1KSB7CiAgICAgICAgICAgICAgcmVtYWluZWRCdWZmZXIgPSBCdWZmZXIuYWxsb2MoYnVmZmVyLmxlbmd0aCk7CiAgICAgICAgICAgICAgYnVmZmVyLmNvcHkocmVtYWluZWRCdWZmZXIpOwogICAgICAgICAgICB9IGVsc2UgaWYgKCFoYXNSZXBseUhlYWRlcikgewogICAgICAgICAgICAgIGhhc1JlcGx5SGVhZGVyID0gdHJ1ZTsKICAgICAgICAgICAgICByZWNlaXZlZExlbmd0aCA9IGJ1ZmZlci5sZW5ndGg7CgogICAgICAgICAgICAgIGNvbnN0IHBhcnNlZFJlcGx5SGVhZGVyID0gQ2xpZW50Ll9wYXJzZUZldGNoUmVwbHlIZWFkZXIoYnVmZmVyKTsKICAgICAgICAgICAgICBpZiAoCiAgICAgICAgICAgICAgICAhdGhpcy5jYXRhbG9ndWVJRC5kZWVwRXF1YWwocGFyc2VkUmVwbHlIZWFkZXIucmVwbHlDYXRhbG9ndWVJRCkKICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIHJlamVjdCgnUmVjZWl2ZWQgQ2F0YWxvZ3VlSUQgaXMgaW52YWxpZCcpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB0b3RhbExlbmd0aCA9IHBhcnNlZFJlcGx5SGVhZGVyLnRvdGFsTGVuZ3RoOwoKICAgICAgICAgICAgICBjb25zdCBlZGdlc0J1ZmZlciA9IGJ1ZmZlci5zbGljZSgKICAgICAgICAgICAgICAgIHJlY2VpdmVkSGVhZGVyTGVuZ3RoLAogICAgICAgICAgICAgICAgYnVmZmVyLmxlbmd0aAogICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgIGNvbnN0IHBhcnNlUmVzdWx0ID0gQ2xpZW50Ll9wYXJzZUVkZ2VzKGVkZ2VzQnVmZmVyKTsKICAgICAgICAgICAgICBlZGdlcy5wdXNoKHBhcnNlUmVzdWx0LmVkZ2VzKTsKICAgICAgICAgICAgICByZW1haW5lZEJ1ZmZlciA9IHBhcnNlUmVzdWx0LnJlbWFpbmVkQnVmZmVyOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIC8vIHJlbWFpbmVkQnVmZmVy44KS44OA44OW44Or44Kr44Km44Oz44OI44GX44Gq44GE44KI44GGZGF0YS5sZW5ndGjjgpLotrPjgZfovrzjgoAKICAgICAgICAgICAgICByZWNlaXZlZExlbmd0aCArPSBkYXRhLmxlbmd0aDsKICAgICAgICAgICAgICBjb25zdCBwYXJzZVJlc3VsdCA9IENsaWVudC5fcGFyc2VFZGdlcyhidWZmZXIpOwogICAgICAgICAgICAgIGVkZ2VzLnB1c2gocGFyc2VSZXN1bHQuZWRnZXMpOwogICAgICAgICAgICAgIHJlbWFpbmVkQnVmZmVyID0gcGFyc2VSZXN1bHQucmVtYWluZWRCdWZmZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChyZWNlaXZlZExlbmd0aCA9PT0gdG90YWxMZW5ndGgpIHsKICAgICAgICAgICAgICBjbGllbnQuZW5kKCk7CiAgICAgICAgICAgICAgcmVzb2x2ZShlZGdlcyk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>edges</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>this.edges</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyDpnZ7lkIzmnJ/lh6bnkIbjgarjga7jgadQcm9taXNl44KS6L+U44GZCg==</text>
+        <text encoding="base64">Y29uc3QgcHJvdG9jb2wgPSByZXF1aXJlKCcuL0NhdGFsb2d1ZS9wcm90b2NvbCcpOwpjb25zdCBjYXRhbG9ndWVTZXJ2ZXIgPSByZXF1aXJlKCcuL0NhdGFsb2d1ZS9jYXRhbG9ndWVTZXJ2ZXInKTsKCmNvbnN0IE5vZGVJRHMgPSBbCiAgbmV3IHByb3RvY29sLk5vZGVJRCgxLCAxLCAxLCAwKSwKICBuZXcgcHJvdG9jb2wuTm9kZUlEKDEsIDEsIDIsIDApLAogIG5ldyBwcm90b2NvbC5Ob2RlSUQoMSwgMSwgMywgMCksCiAgbmV3IHByb3RvY29sLk5vZGVJRCgxLCAxLCA0LCAwKSwKXTsKCmNvbnN0IGNhdGFsb2d1ZVNlcnZlckNsaWVudCA9IG5ldyBjYXRhbG9ndWVTZXJ2ZXIuQ2xpZW50KAogIE5vZGVJRHNbMF0sCiAgJzEyNy4wLjAuMScsCiAgMzAwMDAKKTsKY29uc3Qgd3JpdGVFZGdlcyA9IFsKICBuZXcgcHJvdG9jb2wuRWRnZShOb2RlSURzWzBdLCBOb2RlSURzWzFdKSwKICBuZXcgcHJvdG9jb2wuRWRnZShOb2RlSURzWzFdLCBOb2RlSURzWzJdKSwKICBuZXcgcHJvdG9jb2wuRWRnZShOb2RlSURzWzJdLCBOb2RlSURzWzNdKSwKXTsKCihhc3luYyAoKSA9PiB7CiAgLy8gY29uc29sZS5kZWJ1ZygnV3JpdGluZy4uLicpOwogIC8vIGF3YWl0IGNhdGFsb2d1ZVNlcnZlckNsaWVudC53cml0ZSh3cml0ZUVkZ2VzKTsKCiAgY29uc29sZS5kZWJ1ZygnUmVhZGluZy4uLicpOwogIGNvbnN0IHJlYWRFZGdlcyA9IGF3YWl0IGNhdGFsb2d1ZVNlcnZlckNsaWVudC5mZXRjaCgpOwogIGNvbnNvbGUuZGVidWcoSlNPTi5zdHJpbmdpZnkocmVhZEVkZ2VzLCBudWxsLCAyKSk7Cn0pKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZWRnZXMgPSBbCiAgbmV3IHByb3RvY29sLkVkZ2UoTm9kZUlEc1swXSwgTm9kZUlEc1sxXSksCiAgbmV3IHByb3RvY29sLkVkZ2UoTm9kZUlEc1sxXSwgTm9kZUlEc1syXSksCiAgbmV3IHByb3RvY29sLkVkZ2UoTm9kZUlEc1syXSwgTm9kZUlEc1szXSksCl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGVkZ2VzID0gW107CiAgICAgICAgICBjb25zdCByZWNlaXZlZEhlYWRlckxlbmd0aCA9CiAgICAgICAgICAgIHByb3RvY29sLk1FU1NBR0VfSEVBREVSX0xFTkdUSCArIHByb3RvY29sLk5PREVfSURfTEVOR1RIOwogICAgICAgICAgbGV0IGhhc1JlcGx5SGVhZGVyID0gZmFsc2U7CiAgICAgICAgICBsZXQgdG90YWxMZW5ndGggPSAwOwogICAgICAgICAgbGV0IHJlY2VpdmVkTGVuZ3RoID0gMDsKICAgICAgICAgIGxldCByZW1haW5lZEJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygwKTsKCiAgICAgICAgICBjbGllbnQub24oJ2RhdGEnLCBkYXRhID0+IHsKICAgICAgICAgICAgY29uc3QgYnVmZmVyID0gQnVmZmVyLmNvbmNhdCgKICAgICAgICAgICAgICBbcmVtYWluZWRCdWZmZXIsIGRhdGFdLAogICAgICAgICAgICAgIHJlbWFpbmVkQnVmZmVyLmxlbmd0aCArIGRhdGEubGVuZ3RoCiAgICAgICAgICAgICk7CgogICAgICAgICAgICBpZiAoIWhhc1JlcGx5SGVhZGVyICYmIGJ1ZmZlci5sZW5ndGggPCA1KSB7CiAgICAgICAgICAgICAgcmVtYWluZWRCdWZmZXIgPSBCdWZmZXIuYWxsb2MoYnVmZmVyLmxlbmd0aCk7CiAgICAgICAgICAgICAgYnVmZmVyLmNvcHkocmVtYWluZWRCdWZmZXIpOwogICAgICAgICAgICB9IGVsc2UgaWYgKCFoYXNSZXBseUhlYWRlcikgewogICAgICAgICAgICAgIGhhc1JlcGx5SGVhZGVyID0gdHJ1ZTsKICAgICAgICAgICAgICByZWNlaXZlZExlbmd0aCA9IGJ1ZmZlci5sZW5ndGg7CgogICAgICAgICAgICAgIGNvbnN0IHBhcnNlZFJlcGx5SGVhZGVyID0gQ2xpZW50Ll9wYXJzZUZldGNoUmVwbHlIZWFkZXIoYnVmZmVyKTsKICAgICAgICAgICAgICBpZiAoCiAgICAgICAgICAgICAgICAhdGhpcy5jYXRhbG9ndWVJRC5kZWVwRXF1YWwocGFyc2VkUmVwbHlIZWFkZXIucmVwbHlDYXRhbG9ndWVJRCkKICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIHJlamVjdCgnUmVjZWl2ZWQgQ2F0YWxvZ3VlSUQgaXMgaW52YWxpZCcpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB0b3RhbExlbmd0aCA9IHBhcnNlZFJlcGx5SGVhZGVyLnRvdGFsTGVuZ3RoOwoKICAgICAgICAgICAgICBjb25zdCBlZGdlc0J1ZmZlciA9IGJ1ZmZlci5zbGljZSgKICAgICAgICAgICAgICAgIHJlY2VpdmVkSGVhZGVyTGVuZ3RoLAogICAgICAgICAgICAgICAgYnVmZmVyLmxlbmd0aAogICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgIGNvbnN0IHBhcnNlUmVzdWx0ID0gQ2xpZW50Ll9wYXJzZUVkZ2VzKGVkZ2VzQnVmZmVyKTsKICAgICAgICAgICAgICBlZGdlcy5wdXNoKHBhcnNlUmVzdWx0LmVkZ2VzKTsKICAgICAgICAgICAgICByZW1haW5lZEJ1ZmZlciA9IHBhcnNlUmVzdWx0LnJlbWFpbmVkQnVmZmVyOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIC8vIHJlbWFpbmVkQnVmZmVy44KS44OA44OW44Or44Kr44Km44Oz44OI44GX44Gq44GE44KI44GGZGF0YS5sZW5ndGjjgpLotrPjgZfovrzjgoAKICAgICAgICAgICAgICByZWNlaXZlZExlbmd0aCArPSBkYXRhLmxlbmd0aDsKICAgICAgICAgICAgICBjb25zdCBwYXJzZVJlc3VsdCA9IENsaWVudC5fcGFyc2VFZGdlcyhidWZmZXIpOwogICAgICAgICAgICAgIGVkZ2VzLnB1c2gocGFyc2VSZXN1bHQuZWRnZXMpOwogICAgICAgICAgICAgIHJlbWFpbmVkQnVmZmVyID0gcGFyc2VSZXN1bHQucmVtYWluZWRCdWZmZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChyZWNlaXZlZExlbmd0aCA9PT0gdG90YWxMZW5ndGgpIHsKICAgICAgICAgICAgICBjbGllbnQuZW5kKCk7CiAgICAgICAgICAgICAgcmVzb2x2ZShlZGdlcyk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -600,37 +602,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWRnZXMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNsaWVudC5vbignZGF0YScsIGRhdGEgPT4gewogICAgICAgICAgICBjb25zdCBidWZmZXIgPSBCdWZmZXIuY29uY2F0KAogICAgICAgICAgICAgIFtyZW1haW5lZEJ1ZmZlciwgZGF0YV0sCiAgICAgICAgICAgICAgcmVtYWluZWRCdWZmZXIubGVuZ3RoICsgZGF0YS5sZW5ndGgKICAgICAgICAgICAgKTsKCiAgICAgICAgICAgIGlmICghaGFzUmVwbHlIZWFkZXIgJiYgYnVmZmVyLmxlbmd0aCA8IDUpIHsKICAgICAgICAgICAgICByZW1haW5lZEJ1ZmZlciA9IEJ1ZmZlci5hbGxvYyhidWZmZXIubGVuZ3RoKTsKICAgICAgICAgICAgICBidWZmZXIuY29weShyZW1haW5lZEJ1ZmZlcik7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoIWhhc1JlcGx5SGVhZGVyKSB7CiAgICAgICAgICAgICAgaGFzUmVwbHlIZWFkZXIgPSB0cnVlOwogICAgICAgICAgICAgIHJlY2VpdmVkTGVuZ3RoID0gYnVmZmVyLmxlbmd0aDsKCiAgICAgICAgICAgICAgY29uc3QgcGFyc2VkUmVwbHlIZWFkZXIgPSBDbGllbnQuX3BhcnNlRmV0Y2hSZXBseUhlYWRlcihidWZmZXIpOwogICAgICAgICAgICAgIGlmICgKICAgICAgICAgICAgICAgICF0aGlzLmNhdGFsb2d1ZUlELmRlZXBFcXVhbChwYXJzZWRSZXBseUhlYWRlci5yZXBseUNhdGFsb2d1ZUlEKQogICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgcmVqZWN0KCdSZWNlaXZlZCBDYXRhbG9ndWVJRCBpcyBpbnZhbGlkJyk7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIHRvdGFsTGVuZ3RoID0gcGFyc2VkUmVwbHlIZWFkZXIudG90YWxMZW5ndGg7CgogICAgICAgICAgICAgIGNvbnN0IGVkZ2VzQnVmZmVyID0gYnVmZmVyLnNsaWNlKAogICAgICAgICAgICAgICAgcmVjZWl2ZWRIZWFkZXJMZW5ndGgsCiAgICAgICAgICAgICAgICBidWZmZXIubGVuZ3RoCiAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgICAgY29uc3QgcGFyc2VSZXN1bHQgPSBDbGllbnQuX3BhcnNlRWRnZXMoZWRnZXNCdWZmZXIpOwogICAgICAgICAgICAgIGVkZ2VzLnB1c2gocGFyc2VSZXN1bHQuZWRnZXMpOwogICAgICAgICAgICAgIHJlbWFpbmVkQnVmZmVyID0gcGFyc2VSZXN1bHQucmVtYWluZWRCdWZmZXI7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgLy8gcmVtYWluZWRCdWZmZXLjgpLjg4Djg5bjg6vjgqvjgqbjg7Pjg4jjgZfjgarjgYTjgojjgYZkYXRhLmxlbmd0aOOCkui2s+OBl+i+vOOCgAogICAgICAgICAgICAgIHJlY2VpdmVkTGVuZ3RoICs9IGRhdGEubGVuZ3RoOwogICAgICAgICAgICAgIGNvbnN0IHBhcnNlUmVzdWx0ID0gQ2xpZW50Ll9wYXJzZUVkZ2VzKGJ1ZmZlcik7CiAgICAgICAgICAgICAgZWRnZXMucHVzaChwYXJzZVJlc3VsdC5lZGdlcyk7CiAgICAgICAgICAgICAgcmVtYWluZWRCdWZmZXIgPSBwYXJzZVJlc3VsdC5yZW1haW5lZEJ1ZmZlcjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKHJlY2VpdmVkTGVuZ3RoID09PSB0b3RhbExlbmd0aCkgewogICAgICAgICAgICAgIGNsaWVudC5lbmQoKTsKICAgICAgICAgICAgICByZXNvbHZlKGVkZ2VzKTsKICAgICAgICAgICAgfQogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKCdXYWl0aW5nLi4uJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGVkZ2VzID0gW107CiAgICAgICAgICBjb25zdCByZWNlaXZlZEhlYWRlckxlbmd0aCA9CiAgICAgICAgICAgIHByb3RvY29sLk1FU1NBR0VfSEVBREVSX0xFTkdUSCArIHByb3RvY29sLk5PREVfSURfTEVOR1RIOwogICAgICAgICAgbGV0IGhhc1JlcGx5SGVhZGVyID0gZmFsc2U7CiAgICAgICAgICBsZXQgdG90YWxMZW5ndGggPSAwOwogICAgICAgICAgbGV0IHJlY2VpdmVkTGVuZ3RoID0gMDsKICAgICAgICAgIGxldCByZW1haW5lZEJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygwKTsKCiAgICAgICAgICBjbGllbnQub24oJ2RhdGEnLCBkYXRhID0+IHsKICAgICAgICAgICAgY29uc3QgYnVmZmVyID0gQnVmZmVyLmNvbmNhdCgKICAgICAgICAgICAgICBbcmVtYWluZWRCdWZmZXIsIGRhdGFdLAogICAgICAgICAgICAgIHJlbWFpbmVkQnVmZmVyLmxlbmd0aCArIGRhdGEubGVuZ3RoCiAgICAgICAgICAgICk7CgogICAgICAgICAgICBpZiAoIWhhc1JlcGx5SGVhZGVyICYmIGJ1ZmZlci5sZW5ndGggPCA1KSB7CiAgICAgICAgICAgICAgcmVtYWluZWRCdWZmZXIgPSBCdWZmZXIuYWxsb2MoYnVmZmVyLmxlbmd0aCk7CiAgICAgICAgICAgICAgYnVmZmVyLmNvcHkocmVtYWluZWRCdWZmZXIpOwogICAgICAgICAgICB9IGVsc2UgaWYgKCFoYXNSZXBseUhlYWRlcikgewogICAgICAgICAgICAgIGhhc1JlcGx5SGVhZGVyID0gdHJ1ZTsKICAgICAgICAgICAgICByZWNlaXZlZExlbmd0aCA9IGJ1ZmZlci5sZW5ndGg7CgogICAgICAgICAgICAgIGNvbnN0IHBhcnNlZFJlcGx5SGVhZGVyID0gQ2xpZW50Ll9wYXJzZUZldGNoUmVwbHlIZWFkZXIoYnVmZmVyKTsKICAgICAgICAgICAgICBpZiAoCiAgICAgICAgICAgICAgICAhdGhpcy5jYXRhbG9ndWVJRC5kZWVwRXF1YWwocGFyc2VkUmVwbHlIZWFkZXIucmVwbHlDYXRhbG9ndWVJRCkKICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIHJlamVjdCgnUmVjZWl2ZWQgQ2F0YWxvZ3VlSUQgaXMgaW52YWxpZCcpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB0b3RhbExlbmd0aCA9IHBhcnNlZFJlcGx5SGVhZGVyLnRvdGFsTGVuZ3RoOwoKICAgICAgICAgICAgICBjb25zdCBlZGdlc0J1ZmZlciA9IGJ1ZmZlci5zbGljZSgKICAgICAgICAgICAgICAgIHJlY2VpdmVkSGVhZGVyTGVuZ3RoLAogICAgICAgICAgICAgICAgYnVmZmVyLmxlbmd0aAogICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgIGNvbnN0IHBhcnNlUmVzdWx0ID0gQ2xpZW50Ll9wYXJzZUVkZ2VzKGVkZ2VzQnVmZmVyKTsKICAgICAgICAgICAgICBlZGdlcy5wdXNoKHBhcnNlUmVzdWx0LmVkZ2VzKTsKICAgICAgICAgICAgICByZW1haW5lZEJ1ZmZlciA9IHBhcnNlUmVzdWx0LnJlbWFpbmVkQnVmZmVyOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIC8vIHJlbWFpbmVkQnVmZmVy44KS44OA44OW44Or44Kr44Km44Oz44OI44GX44Gq44GE44KI44GGZGF0YS5sZW5ndGjjgpLotrPjgZfovrzjgoAKICAgICAgICAgICAgICByZWNlaXZlZExlbmd0aCArPSBkYXRhLmxlbmd0aDsKICAgICAgICAgICAgICBjb25zdCBwYXJzZVJlc3VsdCA9IENsaWVudC5fcGFyc2VFZGdlcyhidWZmZXIpOwogICAgICAgICAgICAgIGVkZ2VzLnB1c2gocGFyc2VSZXN1bHQuZWRnZXMpOwogICAgICAgICAgICAgIHJlbWFpbmVkQnVmZmVyID0gcGFyc2VSZXN1bHQucmVtYWluZWRCdWZmZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChyZWNlaXZlZExlbmd0aCA9PT0gdG90YWxMZW5ndGgpIHsKICAgICAgICAgICAgICBjbGllbnQuZW5kKCk7CiAgICAgICAgICAgICAgcmVzb2x2ZShlZGdlcyk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKEpTT04uc3RyaW5naWZ5KGNhdGFsb2d1ZVNlcnZlckNsaWVudC5lZGdlcywgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAoYXN5bmMgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAvLyDpnZ7lkIzmnJ/lh6bnkIbjgarjga7jgadQcm9taXNl44KS6L+U44GZCiAgZmV0Y2goKSB7CiAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICBjb25zdCBoZWFkZXIgPSB0aGlzLl9jcmVhdGVGZXRjaEhlYWRlcigpOwoKICAgICAgY29uc3QgY2xpZW50ID0gbmV0LmNvbm5lY3QoCiAgICAgICAgewogICAgICAgICAgcG9ydDogdGhpcy5wb3J0LAogICAgICAgICAgaG9zdDogdGhpcy5zZXJ2ZXIsCiAgICAgICAgfSwKICAgICAgICAoKSA9PiB7CiAgICAgICAgICBjbGllbnQud3JpdGUoaGVhZGVyKTsKCiAgICAgICAgICBjb25zdCBlZGdlcyA9IFtdOwogICAgICAgICAgY29uc3QgcmVjZWl2ZWRIZWFkZXJMZW5ndGggPQogICAgICAgICAgICBwcm90b2NvbC5NRVNTQUdFX0hFQURFUl9MRU5HVEggKyBwcm90b2NvbC5OT0RFX0lEX0xFTkdUSDsKICAgICAgICAgIGxldCBoYXNSZXBseUhlYWRlciA9IGZhbHNlOwogICAgICAgICAgbGV0IHRvdGFsTGVuZ3RoID0gMDsKICAgICAgICAgIGxldCByZWNlaXZlZExlbmd0aCA9IDA7CiAgICAgICAgICBsZXQgcmVtYWluZWRCdWZmZXIgPSBCdWZmZXIuYWxsb2MoMCk7CgogICAgICAgICAgY2xpZW50Lm9uKCdkYXRhJywgZGF0YSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGJ1ZmZlciA9IEJ1ZmZlci5jb25jYXQoCiAgICAgICAgICAgICAgW3JlbWFpbmVkQnVmZmVyLCBkYXRhXSwKICAgICAgICAgICAgICByZW1haW5lZEJ1ZmZlci5sZW5ndGggKyBkYXRhLmxlbmd0aAogICAgICAgICAgICApOwoKICAgICAgICAgICAgaWYgKCFoYXNSZXBseUhlYWRlciAmJiBidWZmZXIubGVuZ3RoIDwgNSkgewogICAgICAgICAgICAgIHJlbWFpbmVkQnVmZmVyID0gQnVmZmVyLmFsbG9jKGJ1ZmZlci5sZW5ndGgpOwogICAgICAgICAgICAgIGJ1ZmZlci5jb3B5KHJlbWFpbmVkQnVmZmVyKTsKICAgICAgICAgICAgfSBlbHNlIGlmICghaGFzUmVwbHlIZWFkZXIpIHsKICAgICAgICAgICAgICBoYXNSZXBseUhlYWRlciA9IHRydWU7CiAgICAgICAgICAgICAgcmVjZWl2ZWRMZW5ndGggPSBidWZmZXIubGVuZ3RoOwoKICAgICAgICAgICAgICBjb25zdCBwYXJzZWRSZXBseUhlYWRlciA9IENsaWVudC5fcGFyc2VGZXRjaFJlcGx5SGVhZGVyKGJ1ZmZlcik7CiAgICAgICAgICAgICAgaWYgKAogICAgICAgICAgICAgICAgIXRoaXMuY2F0YWxvZ3VlSUQuZGVlcEVxdWFsKHBhcnNlZFJlcGx5SGVhZGVyLnJlcGx5Q2F0YWxvZ3VlSUQpCiAgICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICByZWplY3QoJ1JlY2VpdmVkIENhdGFsb2d1ZUlEIGlzIGludmFsaWQnKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgdG90YWxMZW5ndGggPSBwYXJzZWRSZXBseUhlYWRlci50b3RhbExlbmd0aDsKCiAgICAgICAgICAgICAgY29uc3QgZWRnZXNCdWZmZXIgPSBidWZmZXIuc2xpY2UoCiAgICAgICAgICAgICAgICByZWNlaXZlZEhlYWRlckxlbmd0aCwKICAgICAgICAgICAgICAgIGJ1ZmZlci5sZW5ndGgKICAgICAgICAgICAgICApOwoKICAgICAgICAgICAgICBjb25zdCBwYXJzZVJlc3VsdCA9IENsaWVudC5fcGFyc2VFZGdlcyhlZGdlc0J1ZmZlcik7CiAgICAgICAgICAgICAgZWRnZXMucHVzaChwYXJzZVJlc3VsdC5lZGdlcyk7CiAgICAgICAgICAgICAgcmVtYWluZWRCdWZmZXIgPSBwYXJzZVJlc3VsdC5yZW1haW5lZEJ1ZmZlcjsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAvLyByZW1haW5lZEJ1ZmZlcuOCkuODgOODluODq+OCq+OCpuODs+ODiOOBl+OBquOBhOOCiOOBhmRhdGEubGVuZ3Ro44KS6Laz44GX6L6844KACiAgICAgICAgICAgICAgcmVjZWl2ZWRMZW5ndGggKz0gZGF0YS5sZW5ndGg7CiAgICAgICAgICAgICAgY29uc3QgcGFyc2VSZXN1bHQgPSBDbGllbnQuX3BhcnNlRWRnZXMoYnVmZmVyKTsKICAgICAgICAgICAgICBlZGdlcy5wdXNoKHBhcnNlUmVzdWx0LmVkZ2VzKTsKICAgICAgICAgICAgICByZW1haW5lZEJ1ZmZlciA9IHBhcnNlUmVzdWx0LnJlbWFpbmVkQnVmZmVyOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAocmVjZWl2ZWRMZW5ndGggPT09IHRvdGFsTGVuZ3RoKSB7CiAgICAgICAgICAgICAgY2xpZW50LmVuZCgpOwogICAgICAgICAgICAgIHJlc29sdmUoZWRnZXMpOwogICAgICAgICAgICB9CiAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgICk7CiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5kZWJ1ZygnV3JpdGluZy4uLicpOwpjYXRhbG9ndWVTZXJ2ZXJDbGllbnQud3JpdGUoZWRnZXMpOwoKY29uc29sZS5kZWJ1ZygnV2FpdGluZy4uLicpOwooYXN5bmMgKCkgPT4gewogIGF3YWl0IGNhdGFsb2d1ZVNlcnZlckNsaWVudC5mZXRjaCgpOwogIGNvbnNvbGUuZGlyKEpTT04uc3RyaW5naWZ5KGNhdGFsb2d1ZVNlcnZlckNsaWVudC5lZGdlcywgbnVsbCwgMikpOwp9KSgpOwo=</text>
+        <text encoding="base64">CiAgLy8g6Z2e5ZCM5pyf5Yem55CG44Gq44Gu44GnUHJvbWlzZeOCkui/lOOBmQogIHdyaXRlKGVkZ2VzKSB7CiAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7CiAgICAgIC8vIOODmOODg+ODgOeUn+aIkAogICAgICBjb25zdCBoZWFkZXIgPSB0aGlzLl9jcmVhdGVXcml0ZUhlYWRlcihlZGdlcyk7CgogICAgICAvLyDjgrPjg43jgq/jgrfjg6fjg7PjgpLlvLXjgorjg5jjg4Pjg4DjgpLpgIHkv6EKICAgICAgY29uc3QgY2xpZW50ID0gbmV0LmNvbm5lY3QoCiAgICAgICAgewogICAgICAgICAgcG9ydDogdGhpcy5wb3J0LAogICAgICAgICAgaG9zdDogdGhpcy5zZXJ2ZXIsCiAgICAgICAgfSwKICAgICAgICAoKSA9PiB7CiAgICAgICAgICBjbGllbnQud3JpdGUoaGVhZGVyKTsKCiAgICAgICAgICAvLyDjgqjjg4PjgrjjgpLpgIHkv6EKICAgICAgICAgIGVkZ2VzLmZvckVhY2goZWRnZSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGJ1ZmZlciA9IGVkZ2UudG9CdWZmZXIoKTsKICAgICAgICAgICAgY2xpZW50LndyaXRlKGJ1ZmZlcik7CiAgICAgICAgICB9KTsKCiAgICAgICAgICBjbGllbnQuZW5kKCk7CiAgICAgICAgICByZXNvbHZlKCk7CiAgICAgICAgfQogICAgICApOwogICAgfSk7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNhdGFsb2d1ZVNlcnZlckNsaWVudC5mZXRjaFN5bmMoKTsKY29uc29sZS5kZWJ1ZyhKU09OLnN0cmluZ2lmeShjYXRhbG9ndWVTZXJ2ZXJDbGllbnQuZWRnZXMsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2F0YWxvZ3VlU2VydmVyQ2xpZW50LmZldGNoU3luYygpOwpjb25zb2xlLmRlYnVnKEpTT04uc3RyaW5naWZ5KGNhdGFsb2d1ZVNlcnZlckNsaWVudC5lZGdlcywgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.edges</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>this.edges</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>opp</last-replace>
       <last-substitute>my</last-substitute>
       <last-dir>1</last-dir>
@@ -654,31 +656,31 @@
         <entry>assert</entry>
         <entry>51</entry>
         <entry>eslint-</entry>
-        <entry>console</entry>
         <entry>¥</entry>
         <entry>throw</entry>
         <entry>this.edges</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>73</entry>
-        <entry>q</entry>
-        <entry>69</entry>
-        <entry>40</entry>
-        <entry>16,22d</entry>
-        <entry>52</entry>
-        <entry>51</entry>
-        <entry>125</entry>
-        <entry>71</entry>
-        <entry>92,128d</entry>
-        <entry>123</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>154,172d</entry>
-        <entry>151</entry>
         <entry>129</entry>
         <entry>129,134d</entry>
         <entry>16</entry>
         <entry>112</entry>
         <entry>70</entry>
+        <entry>71</entry>
+        <entry>153</entry>
+        <entry>76</entry>
+        <entry>84,131d</entry>
+        <entry>57</entry>
+        <entry>138</entry>
+        <entry>158,185d</entry>
+        <entry>98,164d</entry>
+        <entry>88</entry>
+        <entry>q</entry>
+        <entry>'s,'ed</entry>
+        <entry>43,84d</entry>
+        <entry>35,84d</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
