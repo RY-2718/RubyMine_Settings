@@ -177,14 +177,14 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" timestamp="1543994958198">
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" timestamp="1543998419513">
         <mark key="s" line="43" column="9" />
         <mark key="e" line="54" column="9" />
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="68" column="23" />
+        <mark key="'" line="25" column="16" />
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/models/evaluation.rb" timestamp="1540188091884">
         <mark key="'" line="9" column="28" />
@@ -199,11 +199,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" timestamp="1543920458473">
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" timestamp="1543998262263">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+        <mark key="^" line="26" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/my_poke_serializer.rb" timestamp="1538985426042">
         <mark key="'" line="12" column="0" />
@@ -238,12 +239,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1543996855838">
-        <mark key="'" line="50" column="11" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="109" column="60" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1543998308871">
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="44" />
+        <mark key="^" line="68" column="44" />
+        <mark key="." line="68" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" timestamp="1543919546982">
         <mark key="'" line="32" column="0" />
@@ -511,26 +511,15 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" timestamp="1543996568910">
-        <mark key="'" line="72" column="9" />
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="73" column="25" />
-        <mark key="." line="50" column="67" />
-        <mark key="^" line="42" column="44" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" timestamp="1543997499679">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="69" column="8" />
+        <mark key="^" line="69" column="8" />
+        <mark key="." line="69" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="14" filename="$USER_HOME$/workspace/lab/BarcodeServer/app/app.js" />
-      <jump line="208" column="0" filename="$USER_HOME$/workspace/lab/BarcodeServer/app/app.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/lab/BarcodeServer/app/app.js" />
-      <jump line="94" column="35" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
-      <jump line="97" column="44" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
-      <jump line="119" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
-      <jump line="114" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
-      <jump line="36" column="9" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
-      <jump line="22" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/nodeID.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/nodeID.js" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" />
@@ -594,7 +583,6 @@
       <jump line="10" column="6" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
       <jump line="19" column="5" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" />
-      <jump line="38" column="22" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/messageHeader.js" />
       <jump line="39" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/nodeID.js" />
@@ -620,6 +608,18 @@
       <jump line="114" column="15" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="102" column="15" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="53" column="11" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" />
+      <jump line="101" column="2" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/protocolTest.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
+      <jump line="25" column="16" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
+      <jump line="86" column="21" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="176" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="35" column="5" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="166" column="6" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="160" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -631,22 +631,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kZWJ1ZyhvZmZzZXQpOwogICAgICBjb25zb2xlLmRlYnVnKGVkZ2VCdWZmZXIpOwogICAgICBjb25zb2xlLmxvZyhlZGdlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2VIZWFkZXJCdWZmZXIgPSBtZXNzYWdlSGVhZGVyLnRvQnVmZmVyKCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>hLengt</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>copy</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNyY05vZGVJREJ1ZmZlciA9IGJ1ZmZlci5zbGljZSg0ICogNCwgNCAqIDgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAxLCAwLCAwLCAwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kZWJ1ZyhvZmZzZXQpOwogICAgICBjb25zb2xlLmRlYnVnKGVkZ2VCdWZmZXIpOwogICAgICBjb25zb2xlLmxvZyhlZGdlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2VIZWFkZXJCdWZmZXIgPSBtZXNzYWdlSGVhZGVyLnRvQnVmZmVyKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -662,38 +662,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBlZGdlc0J1ZmZlciA9IEJ1ZmZlci5hbGxvYyhidWZmZXIubGVuZ3RoIC0gcmVjZWl2ZWRIZWFkZXJMZW5ndGgpOwogICAgICAgIC8vIGJ1ZmZlci5jb3B5KGVkZ2VzQnVmZmVyLCAwLCByZWNlaXZlZEhlYWRlckxlbmd0aCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5kZWJ1ZygnZmV0ZicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBlZGdlc0J1ZmZlciA9IEJ1ZmZlci5hbGxvYyhidWZmZXIubGVuZ3RoIC0gcmVjZWl2ZWRIZWFkZXJMZW5ndGgpOwogICAgICAgIC8vIGJ1ZmZlci5jb3B5KGVkZ2VzQnVmZmVyLCAwLCByZWNlaXZlZEhlYWRlckxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoYXNSZXBseUhlYWRlciA9IHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgZWRnZUJ1ZmZlciA9IEJ1ZmZlci5hbGxvYyhwcm90b2NvbC5FREdFX0xFTkdUSCk7CiAgICAgIC8vIGJ1ZmZlci5jb3B5KGVkZ2VCdWZmZXIsIDAsIG9mZnNldCwgcHJvdG9jb2wuRURHRV9MRU5HVEgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBoYXNSZXBseUhlYWRlciA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRzdE5vZGVJREJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygxNik7CiAgICBidWZmZXIuY29weShkc3ROb2RlSURCdWZmZXIsIDAsIDQgKiA4LCA0ICogMTIpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5kZWJ1ZyhgZWRnZTogJHtiaW5hcnkuYnVmMkJlYXV0aWZpZWRIZXgoYnVmZmVyKX1gKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>;
-    buffer</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoYGhlYWRlcjogJHtiaW5hcnkuYnVmMkJlYXV0aWZpZWRIZXgoaGVhZGVyKX1gKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vY29uc3Qgc3JjTm9kZUlEQnVmZmVyID0gQnVmZmVyLmFsbG9jKDE2KTsKICAgIC8vYnVmZmVyLmNvcHkoc3JjTm9kZUlEQnVmZmVyLCAwLCA0ICogNCwgNCAqIDgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoJ3dpbGwgYmUgaW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoYnVmZmVyKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWRTdHJpbmcgPQogICAgICAgICcwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMDAwMDEwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMTAwMDAwMDAyMDAwMDAwMDAwMDAwMDAnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gMm5kIGVkZ2UK</text>
+        <text encoding="base64">ICAgICAgICAxLCAxLCAxLCAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>copy</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>copy</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>opp</last-replace>
       <last-substitute>my</last-substitute>
       <last-dir>1</last-dir>
@@ -701,8 +700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>latest_history</entry>
-        <entry>latest</entry>
         <entry encoding="base64">XDxteV9wb2tlXD4=</entry>
         <entry encoding="base64">XDxmaW5kX2J5XD4=</entry>
         <entry encoding="base64">XDxpbl9iYXR0bGVcPg==</entry>
@@ -721,11 +718,10 @@
         <entry encoding="base64">XDwwMDAwXD4=</entry>
         <entry encoding="base64">IA==</entry>
         <entry>copy</entry>
+        <entry>will</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>12</entry>
-        <entry>8,20d</entry>
-        <entry>'s,'ed</entry>
         <entry>21,31d</entry>
         <entry>10,22d</entry>
         <entry>21</entry>
@@ -736,12 +732,15 @@
         <entry>31,38y</entry>
         <entry>74</entry>
         <entry>38</entry>
-        <entry>q</entry>
         <entry>62,72y</entry>
         <entry>43,54y</entry>
         <entry>70</entry>
         <entry>51</entry>
         <entry>45</entry>
+        <entry>56</entry>
+        <entry>73</entry>
+        <entry>q</entry>
+        <entry>69</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
