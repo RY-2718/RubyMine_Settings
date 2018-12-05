@@ -172,12 +172,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" timestamp="1544042977479">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="64" />
-        <mark key="^" line="31" column="64" />
-        <mark key="." line="31" column="64" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/index.js" timestamp="1544047969037">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/my_poke_serializer.rb" timestamp="1538985426042">
         <mark key="'" line="12" column="0" />
@@ -212,8 +212,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1544044801515">
-        <mark key="'" line="133" column="0" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1544047826981">
+        <mark key="'" line="111" column="10" />
+        <mark key="[" line="123" column="18" />
+        <mark key="]" line="123" column="22" />
+        <mark key="." line="123" column="22" />
+        <mark key="^" line="123" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" timestamp="1543919546982">
         <mark key="'" line="32" column="0" />
@@ -454,11 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="9" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
-      <jump line="178" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="42" column="11" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/nodeID.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol/edge.js" />
       <jump line="40" column="3" filename="$USER_HOME$/workspace/lab/node_catalogue_client/test/catalogueServerTest.js" />
@@ -487,7 +486,6 @@
       <jump line="54" column="11" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="103" column="15" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
-      <jump line="113" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="101" column="15" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="47" column="11" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
@@ -554,6 +552,12 @@
       <jump line="70" column="22" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="135" column="13" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="128" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="113" column="10" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="110" column="10" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="116" column="10" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="111" column="10" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -564,23 +568,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIHJldHVybjsKICAgICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>edges</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>edges</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>this.edges</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyDpnZ7lkIzmnJ/lh6bnkIbjgarjga7jgadQcm9taXNl44KS6L+U44GZCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIHJldHVybjsKICAgICAgfSkK</text>
+        <text encoding="base64">Y29uc3QgZWRnZXMgPSBbCiAgbmV3IHByb3RvY29sLkVkZ2UoTm9kZUlEc1swXSwgTm9kZUlEc1sxXSksCiAgbmV3IHByb3RvY29sLkVkZ2UoTm9kZUlEc1sxXSwgTm9kZUlEc1syXSksCiAgbmV3IHByb3RvY29sLkVkZ2UoTm9kZUlEc1syXSwgTm9kZUlEc1szXSksCl07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -596,37 +600,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmZldGNoKCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZWRnZXMgPSBbXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzeW5jICgpID0+IHsKICAgICAgYXdhaXQgdGhpcy5mZXRjaCgpLmNhdGNoKCk7CiAgICB9KCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKCdXYWl0aW5nLi4uJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdSZWNlaXZlZCBDYXRhbG9ndWVJRCBpcyBpbnZhbGlkJyk7Cg==</text>
+        <text encoding="base64">ICB9KSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kZWJ1Zygnd3JpdGUgZW5kJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKEpTT04uc3RyaW5naWZ5KGNhdGFsb2d1ZVNlcnZlckNsaWVudC5lZGdlcywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAoYXN5bmMgKCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIOODmOODg+ODgOeUn+aIkAogICAgY29uc3QgaGVhZGVyID0gdGhpcy5jcmVhdGVXcml0ZUhlYWRlcihlZGdlcyk7CgogICAgLy8g44Kz44ON44Kv44K344On44Oz44KS5by144KK44OY44OD44OA44KS6YCB5L+hCiAgICBjb25zdCBjbGllbnQgPSBuZXQuY29ubmVjdCgKICAgICAgdGhpcy5wb3J0LAogICAgICB0aGlzLnNlcnZlcgogICAgKTsKCiAgICBjbGllbnQud3JpdGUoaGVhZGVyKTsKCiAgICAvLyDjgqjjg4PjgrjjgpLpgIHkv6EKICAgIGVkZ2VzLmZvckVhY2goZWRnZSA9PiB7CiAgICAgIGNvbnN0IGJ1ZmZlciA9IGVkZ2UudG9CdWZmZXIoKTsKICAgICAgY2xpZW50LndyaXRlKGJ1ZmZlcik7CiAgICB9KTsKCiAgICBjbGllbnQuZW5kKCk7CiAgICBjb25zb2xlLmRlYnVnKCd3cml0ZSBlbmQnKTsK</text>
+        <text encoding="base64">Y29uc29sZS5kZWJ1ZygnV3JpdGluZy4uLicpOwpjYXRhbG9ndWVTZXJ2ZXJDbGllbnQud3JpdGUoZWRnZXMpOwoKY29uc29sZS5kZWJ1ZygnV2FpdGluZy4uLicpOwooYXN5bmMgKCkgPT4gewogIGF3YWl0IGNhdGFsb2d1ZVNlcnZlckNsaWVudC5mZXRjaCgpOwogIGNvbnNvbGUuZGlyKEpTT04uc3RyaW5naWZ5KGNhdGFsb2d1ZVNlcnZlckNsaWVudC5lZGdlcywgbnVsbCwgMikpOwp9KSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHsK</text>
+        <text encoding="base64">CmNhdGFsb2d1ZVNlcnZlckNsaWVudC5mZXRjaFN5bmMoKTsKY29uc29sZS5kZWJ1ZyhKU09OLnN0cmluZ2lmeShjYXRhbG9ndWVTZXJ2ZXJDbGllbnQuZWRnZXMsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5vbignZGF0YScsIGRhdGEgPT4gewogICAgICBjb25zdCBidWZmZXIgPSBCdWZmZXIuY29uY2F0KAogICAgICAgIFtyZW1haW5lZEJ1ZmZlciwgZGF0YV0sCiAgICAgICAgcmVtYWluZWRCdWZmZXIubGVuZ3RoICsgZGF0YS5sZW5ndGgKICAgICAgKTsKCiAgICAgIGlmICghaGFzUmVwbHlIZWFkZXIgJiYgYnVmZmVyLmxlbmd0aCA8IDUpIHsKICAgICAgICByZW1haW5lZEJ1ZmZlciA9IEJ1ZmZlci5hbGxvYyhidWZmZXIubGVuZ3RoKTsKICAgICAgICBidWZmZXIuY29weShyZW1haW5lZEJ1ZmZlcik7CiAgICAgIH0gZWxzZSBpZiAoIWhhc1JlcGx5SGVhZGVyKSB7CiAgICAgICAgaGFzUmVwbHlIZWFkZXIgPSB0cnVlOwogICAgICAgIHJlY2VpdmVkTGVuZ3RoID0gYnVmZmVyLmxlbmd0aDsKCiAgICAgICAgY29uc3QgcGFyc2VkUmVwbHlIZWFkZXIgPSBDbGllbnQucGFyc2VGZXRjaFJlcGx5SGVhZGVyKGJ1ZmZlcik7CiAgICAgICAgaWYgKCF0aGlzLmNhdGFsb2d1ZUlELmRlZXBFcXVhbChwYXJzZWRSZXBseUhlYWRlci5yZXBseUNhdGFsb2d1ZUlEKSkgewogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdSZWNlaXZlZCBDYXRhbG9ndWVJRCBpcyBpbnZhbGlkJyk7CiAgICAgICAgfQogICAgICAgIHRvdGFsTGVuZ3RoID0gcGFyc2VkUmVwbHlIZWFkZXIudG90YWxMZW5ndGg7CgogICAgICAgIGNvbnN0IGVkZ2VzQnVmZmVyID0gYnVmZmVyLnNsaWNlKHJlY2VpdmVkSGVhZGVyTGVuZ3RoLCBidWZmZXIubGVuZ3RoKTsKCiAgICAgICAgY29uc3QgcGFyc2VSZXN1bHQgPSBDbGllbnQucGFyc2VFZGdlcyhlZGdlc0J1ZmZlcik7CiAgICAgICAgdGhpcy5lZGdlcy5wdXNoKHBhcnNlUmVzdWx0LmVkZ2VzKTsKICAgICAgICByZW1haW5lZEJ1ZmZlciA9IHBhcnNlUmVzdWx0LnJlbWFpbmVkQnVmZmVyOwogICAgICB9IGVsc2UgewogICAgICAgIC8vIHJlbWFpbmVkQnVmZmVy44KS44OA44OW44Or44Kr44Km44Oz44OI44GX44Gq44GE44KI44GGZGF0YS5sZW5ndGjjgpLotrPjgZfovrzjgoAKICAgICAgICByZWNlaXZlZExlbmd0aCArPSBkYXRhLmxlbmd0aDsKICAgICAgICBjb25zdCBwYXJzZVJlc3VsdCA9IENsaWVudC5wYXJzZUVkZ2VzKGJ1ZmZlcik7CiAgICAgICAgdGhpcy5lZGdlcy5wdXNoKHBhcnNlUmVzdWx0LmVkZ2VzKTsKICAgICAgICByZW1haW5lZEJ1ZmZlciA9IHBhcnNlUmVzdWx0LnJlbWFpbmVkQnVmZmVyOwogICAgICB9CgogICAgICBpZiAocmVjZWl2ZWRMZW5ndGggPT09IHRvdGFsTGVuZ3RoKSB7CiAgICAgICAgY2xpZW50LmVuZCgpOwogICAgICAgIHJldHVybjsKICAgICAgfQogICAgfSk7Cg==</text>
+        <text encoding="base64">Y2F0YWxvZ3VlU2VydmVyQ2xpZW50LmZldGNoU3luYygpOwpjb25zb2xlLmRlYnVnKEpTT04uc3RyaW5naWZ5KGNhdGFsb2d1ZVNlcnZlckNsaWVudC5lZGdlcywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>this.edges</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>this.edges</last-pattern>
       <last-replace>opp</last-replace>
       <last-substitute>my</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>My</entry>
         <entry>name</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxmdWxsX2luZm9cPg==</entry>
@@ -654,13 +657,9 @@
         <entry>console</entry>
         <entry>¥</entry>
         <entry>throw</entry>
+        <entry>this.edges</entry>
       </history-search>
       <history-cmd>
-        <entry>62,72y</entry>
-        <entry>43,54y</entry>
-        <entry>70</entry>
-        <entry>45</entry>
-        <entry>56</entry>
         <entry>73</entry>
         <entry>q</entry>
         <entry>69</entry>
@@ -675,6 +674,11 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>154,172d</entry>
         <entry>151</entry>
+        <entry>129</entry>
+        <entry>129,134d</entry>
+        <entry>16</entry>
+        <entry>112</entry>
+        <entry>70</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
