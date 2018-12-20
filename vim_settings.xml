@@ -229,10 +229,10 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1545306292454">
-        <mark key="'" line="38" column="46" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" timestamp="1545307552854">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="144" column="6" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="37" column="35" />
       </file>
@@ -316,12 +316,12 @@
         <mark key="." line="116" column="6" />
         <mark key="^" line="116" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/graphManager.js" timestamp="1545306136697">
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/graphManager.js" timestamp="1545307639488">
         <mark key="'" line="48" column="41" />
-        <mark key="[" line="82" column="2" />
-        <mark key="]" line="85" column="14" />
-        <mark key="." line="85" column="14" />
-        <mark key="^" line="85" column="14" />
+        <mark key="[" line="92" column="4" />
+        <mark key="]" line="92" column="13" />
+        <mark key="." line="92" column="13" />
+        <mark key="^" line="92" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/user_serializer.rb" timestamp="1536759003361">
         <mark key="[" line="0" column="2" />
@@ -532,7 +532,6 @@
       <jump line="128" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="58" column="44" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="59" column="42" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
-      <jump line="62" column="24" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="66" column="36" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="67" column="21" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
       <jump line="68" column="27" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
@@ -574,6 +573,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/graphManager.js" />
       <jump line="48" column="41" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/graphManager.js" />
       <jump line="38" column="46" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/catalogueServer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -585,22 +585,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>utils.parseEdges</text>
+        <text>edges</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>utils.parseEdges</text>
+        <text>edges</text>
       </register>
       <register name="/" type="4">
         <text>utils</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKEpTT04uc3RyaW5naWZ5KHJlYWRFZGdlcywgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVkZ2VzID0gW107CiAgICBsZXQgb2Zmc2V0ID0gMDsKCiAgICB3aGlsZSAob2Zmc2V0ICsgcHJvdG9jb2wuRURHRV9MRU5HVEggPD0gYnVmZmVyLmxlbmd0aCkgewogICAgICBjb25zdCBlZGdlQnVmZmVyID0gYnVmZmVyLnNsaWNlKG9mZnNldCwgb2Zmc2V0ICsgcHJvdG9jb2wuRURHRV9MRU5HVEgpOwogICAgICBjb25zdCBlZGdlID0gcHJvdG9jb2wuRWRnZS5mcm9tQnVmZmVyKGVkZ2VCdWZmZXIpOwogICAgICBvZmZzZXQgKz0gcHJvdG9jb2wuRURHRV9MRU5HVEg7CiAgICAgIGVkZ2VzLnB1c2goZWRnZSk7CiAgICB9CgogICAgY29uc3QgcmVtYWluZWRCdWZmZXIgPSBCdWZmZXIuYWxsb2MoYnVmZmVyLmxlbmd0aCAtIG9mZnNldCk7CiAgICBidWZmZXIuY29weShyZW1haW5lZEJ1ZmZlciwgMCwgb2Zmc2V0KTsKCiAgICByZXR1cm4gewogICAgICBlZGdlczogZWRnZXMsCiAgICAgIHJlbWFpbmVkQnVmZmVyOiByZW1haW5lZEJ1ZmZlciwKICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuL3V0aWxzJyk7Cg==</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -619,28 +619,28 @@
         <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuL3V0aWxzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuL3V0aWxzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXN5bmMK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc3JjTm9kZSA9IG5ldyBwcm90b2NvbC5Ob2RlSUQoCikK</text>
+        <text encoding="base64">YXN5bmMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjg5jjg4Pjg4DjgpLliYrpmaQK</text>
+        <text encoding="base64">Y29uc3Qgc3JjTm9kZSA9IG5ldyBwcm90b2NvbC5Ob2RlSUQoCikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgqjjg4PjgrjmlbDjgpLooajjgZk0IEJ5dGXjgpIK</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg5jjg4Pjg4DjgpLliYrpmaQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlY2VpdmVkSGVhZGVyTGVuZ3RoID0KICAgICAgcHJvdG9jb2wuTUVTU0FHRV9IRUFERVJfTEVOR1RIICsgcHJvdG9jb2wuTk9ERV9JRF9MRU5HVEg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgqjjg4PjgrjmlbDjgpLooajjgZk0IEJ5dGXjgpIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXJzZWRSZXBseUhlYWRlciA9IGdldFRvdGFsTGVuZ3RoRnJvbVJlcGx5SGVhZGVyKGJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlY2VpdmVkSGVhZGVyTGVuZ3RoID0KICAgICAgcHJvdG9jb2wuTUVTU0FHRV9IRUFERVJfTEVOR1RIICsgcHJvdG9jb2wuTk9ERV9JRF9MRU5HVEg7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>86</text>
       </register>
     </registers>
     <search>
@@ -676,7 +676,6 @@
         <entry>utils</entry>
       </history-search>
       <history-cmd>
-        <entry>qa</entry>
         <entry>8,13y</entry>
         <entry>161,180y</entry>
         <entry>24</entry>
@@ -690,12 +689,13 @@
         <entry>59</entry>
         <entry>a</entry>
         <entry>114,127y</entry>
-        <entry>86</entry>
         <entry>71</entry>
         <entry>70,84d</entry>
         <entry>41</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>129,145y</entry>
+        <entry>86</entry>
       </history-cmd>
       <history-expr />
       <history-input />
