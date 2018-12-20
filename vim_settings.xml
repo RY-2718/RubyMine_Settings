@@ -220,8 +220,8 @@
         <mark key="'" line="149" column="47" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="19" column="3" />
-        <mark key="^" line="162" column="50" />
-        <mark key="." line="162" column="50" />
+        <mark key="^" line="149" column="50" />
+        <mark key="." line="149" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/protocol.js" timestamp="1543919546982">
         <mark key="'" line="32" column="0" />
