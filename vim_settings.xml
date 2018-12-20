@@ -316,12 +316,12 @@
         <mark key="." line="116" column="6" />
         <mark key="^" line="116" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/graphManager.js" timestamp="1545307639488">
+      <file name="$USER_HOME$/workspace/lab/node_catalogue_client/Catalogue/graphManager.js" timestamp="1545309344468">
         <mark key="'" line="48" column="41" />
-        <mark key="[" line="92" column="4" />
-        <mark key="]" line="92" column="13" />
-        <mark key="." line="92" column="13" />
-        <mark key="^" line="92" column="13" />
+        <mark key="[" line="110" column="38" />
+        <mark key="]" line="110" column="50" />
+        <mark key="." line="110" column="50" />
+        <mark key="^" line="110" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/poke/poke_stats_server/app/serializers/user_serializer.rb" timestamp="1536759003361">
         <mark key="[" line="0" column="2" />
@@ -585,13 +585,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>edges</text>
+        <text>offset</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>edges</text>
+        <text>offset</text>
       </register>
       <register name="/" type="4">
         <text>utils</text>
@@ -600,7 +600,7 @@
         <text encoding="base64">ICAgIGNvbnN0IGVkZ2VzID0gW107CiAgICBsZXQgb2Zmc2V0ID0gMDsKCiAgICB3aGlsZSAob2Zmc2V0ICsgcHJvdG9jb2wuRURHRV9MRU5HVEggPD0gYnVmZmVyLmxlbmd0aCkgewogICAgICBjb25zdCBlZGdlQnVmZmVyID0gYnVmZmVyLnNsaWNlKG9mZnNldCwgb2Zmc2V0ICsgcHJvdG9jb2wuRURHRV9MRU5HVEgpOwogICAgICBjb25zdCBlZGdlID0gcHJvdG9jb2wuRWRnZS5mcm9tQnVmZmVyKGVkZ2VCdWZmZXIpOwogICAgICBvZmZzZXQgKz0gcHJvdG9jb2wuRURHRV9MRU5HVEg7CiAgICAgIGVkZ2VzLnB1c2goZWRnZSk7CiAgICB9CgogICAgY29uc3QgcmVtYWluZWRCdWZmZXIgPSBCdWZmZXIuYWxsb2MoYnVmZmVyLmxlbmd0aCAtIG9mZnNldCk7CiAgICBidWZmZXIuY29weShyZW1haW5lZEJ1ZmZlciwgMCwgb2Zmc2V0KTsKCiAgICByZXR1cm4gewogICAgICBlZGdlczogZWRnZXMsCiAgICAgIHJlbWFpbmVkQnVmZmVyOiByZW1haW5lZEJ1ZmZlciwKICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhdGFsb2d1ZUlEID0gcHJvdG9jb2wuTm9kZUlELmZyb21CdWZmZXIoZWRnZUJ1ZmZlcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -616,28 +616,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuL3V0aWxzJyk7Cg==</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuL3V0aWxzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuL3V0aWxzJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXN5bmMK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3JjTm9kZSA9IG5ldyBwcm90b2NvbC5Ob2RlSUQoCikK</text>
+        <text encoding="base64">YXN5bmMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjg5jjg4Pjg4DjgpLliYrpmaQK</text>
+        <text encoding="base64">Y29uc3Qgc3JjTm9kZSA9IG5ldyBwcm90b2NvbC5Ob2RlSUQoCikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgqjjg4PjgrjmlbDjgpLooajjgZk0IEJ5dGXjgpIK</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg5jjg4Pjg4DjgpLliYrpmaQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlY2VpdmVkSGVhZGVyTGVuZ3RoID0KICAgICAgcHJvdG9jb2wuTUVTU0FHRV9IRUFERVJfTEVOR1RIICsgcHJvdG9jb2wuTk9ERV9JRF9MRU5HVEg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgqjjg4PjgrjmlbDjgpLooajjgZk0IEJ5dGXjgpIK</text>
       </register>
       <register name=":" type="4">
         <text>86</text>
